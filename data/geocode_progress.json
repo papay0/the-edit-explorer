@@ -1,0 +1,5098 @@
+{
+  "processedIds": [
+    "six-senses-uluwatu-pecatu",
+    "ashford-castle-mayo",
+    "caruso-a-belmond-hotel-amalfi-coast-ravello",
+    "grand-hotel-tremezzo-lake-como-tremezzina",
+    "villa-d-este-cernobbio",
+    "four-seasons-resort-punta-mita-punta-de-mita",
+    "six-senses-douro-valley-samod-es",
+    "the-st-regis-bahia-beach-resort-puerto-rico-rio-grande",
+    "six-senses-zil-pasyon-seychelles-felicite-island",
+    "como-parrot-cay-parrot-cay",
+    "the-connaught-mayfair",
+    "1-hotel-west-hollywood-west-hollywood",
+    "acqualina-resort-residences-sunny-isles",
+    "auberge-du-soleil-st-helena",
+    "cavallo-point-sausalito",
+    "four-seasons-resort-and-residences-napa-valley-calistoga",
+    "four-seasons-resort-hualalai-kailua-kona",
+    "four-seasons-resort-jackson-hole-teton-village",
+    "four-seasons-resort-orlando-at-walt-disney-world-resort-lake-buena-vista",
+    "little-palm-island-resort-spa-little-torch-key",
+    "malibu-beach-inn-hotel-spa-malibu",
+    "montage-big-sky-big-sky",
+    "montage-healdsburg-healdsburg",
+    "montage-laguna-beach-laguna-beach",
+    "montage-palmetto-bluff-bluffton",
+    "ojai-valley-inn-ojai",
+    "rancho-valencia-resort-and-spa-rancho-santa-fe",
+    "rosewood-miramar-beach-montecito",
+    "the-boca-raton-boca-raton",
+    "the-ritz-carlton-bacara-santa-barbara-goleta",
+    "the-ritz-carlton-bal-harbour-miami-bal-harbour",
+    "the-ritz-carlton-maui-kapalua-kapalua",
+    "the-ritz-carlton-o-ahu-turtle-bay-kahuku",
+    "the-ritz-carlton-bachelor-gulch-avon",
+    "the-ritz-carlton-half-moon-bay-half-moon-bay",
+    "the-ritz-carlton-laguna-niguel-dana-point",
+    "the-ritz-carlton-lake-tahoe-truckee",
+    "the-ritz-carlton-naples-naples",
+    "the-st-regis-bal-harbour-resort-bal-harbour",
+    "the-tampa-edition-tampa",
+    "twin-farms-barnard",
+    "the-lodge-at-torrey-pines-la-jolla",
+    "the-sanctuary-at-kiawah-island-golf-resort-kiawah-island",
+    "ocean-house-watch-hill",
+    "the-weekapaug-inn-westerly",
+    "six-senses-ninh-van-bay-ninh-hoa",
+    "almanac-palais-vienna-wien",
+    "anantara-palais-hansen-vienna-hotel-vienna",
+    "hotel-goldener-hirsch-a-luxury-collection-hotel-salzburg-salzburg",
+    "hotel-imperial-a-luxury-collection-hotel-vienna-vienna",
+    "hotel-sacher-wien-vienna",
+    "so-vienna-vienna",
+    "the-amauris-vienna-relais-ch-teaux-vienna",
+    "the-ritz-carlton-vienna-vienna",
+    "thurnher-s-alpenhof-zuers-am-arlberg",
+    "pink-sands-resort-eleuthera",
+    "corinthia-grand-hotel-astoria-brussels-brussels",
+    "hotel-amigo-a-rocco-forte-hotel-brussels",
+    "le-louise-hotel-brussels-mgallery-brussels",
+    "belmond-safaris-maun",
+    "xigera-safari-lodge-maun",
+    "palacio-tangara-oetker-hotels-s-o-paulo",
+    "santa-teresa-hotel-rio-de-janeiro-mgallery-collection-rio-de-janeiro",
+    "six-senses-krabey-island-prey-nob",
+    "auberge-saint-antoine-qu-bec-city",
+    "fairmont-the-queen-elizabeth-montreal",
+    "fairmont-waterfront-vancouver",
+    "fogo-island-inn-joe-batt-s-arm",
+    "muir-a-luxury-collection-hotel-halifax-halifax",
+    "shangri-la-toronto-toronto",
+    "sofitel-montreal-golden-mile-montreal",
+    "the-st-regis-toronto-toronto",
+    "vogue-hotel-montreal-downtown-curio-collection-by-hilton-montreal",
+    "w-toronto-toronto",
+    "hotel-indigo-grand-cayman-cayman-islands",
+    "four-seasons-hotel-hangzhou-at-hangzhou-centre-hangzhou",
+    "four-seasons-hotel-hangzhou-at-west-lake-hangzhou",
+    "four-seasons-hotel-suzhou-suzhou",
+    "four-seasons-hotel-tianjin-tianjin",
+    "intercontinental-xiangyang-by-ihg-xiangyang",
+    "kimpton-qiantan-shanghai-by-ihg-shanghai",
+    "rissai-valley-a-ritz-carlton-reserve-jiuzhaigou",
+    "the-langham-shenzhen-shenzhen",
+    "the-middle-house-shanghai",
+    "the-shanghai-edition-shanghai",
+    "casa-pestagua-relais-ch-teaux-cartagena",
+    "four-seasons-hotel-casa-medina-bogot-bogota",
+    "sofitel-bar-cartagena-beach-resort-cartagena-de-indias",
+    "hotel-nantipa-a-tico-beach-experience-c-bano",
+    "los-altos-resort-manuel-antonio",
+    "nayara-tented-camp-la-fortuna",
+    "nekajui-peninsula-papagayo-a-ritz-carlton-reserve-nacascolo",
+    "grand-hotel-brioni-pula-a-radisson-collection-hotel-pula",
+    "kempinski-hotel-adriatic-savudrija",
+    "maslina-resort-stari-grad",
+    "radisson-blu-resort-spa-split-split",
+    "parklane-a-luxury-collection-resort-spa-limassol-limassol",
+    "andaz-prague-prague",
+    "augustine-a-luxury-collection-hotel-prague-prague",
+    "nh-collection-copenhagen-copenhagen",
+    "nobis-hotel-copenhagen-a-member-of-design-hotels-copenhagen",
+    "intercontinental-dominica-cabrits-resort-spa-portsmouth",
+    "eden-roc-cap-cana-cap-cana",
+    "kimpton-las-mercedes-by-ihg-santo-domingo",
+    "paradisus-palma-real-golf-spa-resort-all-inclusive-punta-cana",
+    "the-st-regis-cap-cana-resort-punta-cana",
+    "tortuga-bay-puntacana-resort-club-punta-cana",
+    "four-seasons-hotel-alexandria-at-san-stefano-alexandria",
+    "four-seasons-hotel-cairo-at-the-first-residence-cairo",
+    "coquillade-provence-gargas",
+    "domaine-de-primard-guainville",
+    "five-seas-by-inwood-hotels-cannes",
+    "fleur-de-loire-blois",
+    "hotel-barriere-le-fouquets-paris-paris",
+    "hotel-barriere-le-majestic-cannes-cannes",
+    "hotel-martinez-cannes",
+    "intercontinental-bordeaux-le-grand-hotel-bordeaux",
+    "intercontinental-chantilly-chateau-mont-royal-by-ihg-la-chapelle-en-serval",
+    "intercontinental-lyon-hotel-dieu-lyon",
+    "intercontinental-marseille-hotel-dieu-by-ihg-marseille",
+    "j-k-place-paris-paris",
+    "jw-marriott-cannes-cannes",
+    "kimpton-st-honore-paris-by-ihg-paris",
+    "la-fantaisie-paris",
+    "la-mirande-avignon",
+    "le-royal-monceau-raffles-paris-paris",
+    "lutetia-hotel-paris",
+    "maison-delano-paris-paris",
+    "mondrian-bordeaux-les-carmes-bordeaux",
+    "mondrian-cannes-cannes",
+    "pavillon-faubourg-saint-germain-paris",
+    "relais-christine-paris",
+    "saint-james-paris-paris",
+    "so-paris-paris",
+    "sofitel-paris-baltimore-tour-eiffel-hotel-paris",
+    "sofitel-paris-le-faubourg-paris",
+    "the-maybourne-riviera-maybourne-roquebrune-cap-martin",
+    "villa-gallici-h-tel-spa-aix-en-provence",
+    "intercontinental-bora-bora-resort-and-thalasso-spa-by-ihg-bora-bora",
+    "le-bora-bora-bp-169",
+    "le-taha-a-tapuamu",
+    "sofitel-kia-ora-moorea-beach-resort-moorea-maiao",
+    "brenners-park-hotel-spa-oetker-hotels-baden-baden",
+    "fairmont-hotel-vier-jahreszeiten-hamburg-hamburg",
+    "kimpton-main-frankfurt-by-ihg-frankfurt",
+    "rocco-forte-the-charles-hotel-munich",
+    "so-berlin-das-stue-berlin",
+    "sofitel-frankfurt-opera-frankfurt-am-main",
+    "sofitel-munich-bayerpost-munich",
+    "academias-hotel-autograph-collection-athens",
+    "amirandes-grecotel-boutique-resort-heraklion",
+    "andronis-minois-paros-island",
+    "athenaeum-intercontinental-by-ihg-athens",
+    "athens-capital-center-hotel-athens",
+    "canaves-epitome-small-luxury-hotels-of-the-world-santorini",
+    "caramel-grecotel-boutique-resort-rethymno",
+    "cosme-a-luxury-collection-resort-paros-paros",
+    "deos-mykonos-mykonos",
+    "elounda-mare-hotel-aghios-nikolaos",
+    "intercontinental-crete-by-ihg-agios-nikolaos",
+    "katikies-garden-santorini-fira",
+    "kouros-hotel-suites-mykonos",
+    "magma-resort-santorini-part-of-the-unbound-collection-by-hyatt-santorini",
+    "minos-beach-art-hotel-agios-nikolaos",
+    "myconian-ambassador-hotel-relais-chateaux-mykonos",
+    "myconian-villa-collection-mykonos",
+    "mykonos-blu-boutique-resort-mykonos",
+    "new-hotel-athens",
+    "nobu-hotel-santorini-santorini",
+    "no-s-santorini-santorini",
+    "one-only-aesthesis-glyfada",
+    "one-only-k-a-island-kea",
+    "parilio-a-member-of-design-hotels-paros",
+    "santo-pure-oia-suites-villas-oia",
+    "raffles-jaipur-jaipur",
+    "raffles-udaipur-udaipur",
+    "six-senses-fort-barwara-chauth-ka-barwara",
+    "six-senses-vana-a-wellness-retreat-dehradun",
+    "the-leela-palace-new-delhi-new-delhi",
+    "the-oberoi-rajvilas-jaipur-jaipur",
+    "the-oberoi-udaivilas-udaipur",
+    "the-ritz-carlton-bangalore-bangalore",
+    "andaz-bali-denpasar",
+    "bulgari-resort-bali-uluwatu-bali",
+    "como-shambhala-estate-gianyar-city",
+    "como-uma-canggu-canggu",
+    "four-seasons-hotel-jakarta-jakarta",
+    "jumeirah-bali-bali",
+    "nihi-sumba-east-nusa-tenggara",
+    "raffles-bali-jimbaran",
+    "regent-bali-canggu-canggu",
+    "soori-bali-bali",
+    "the-langham-jakarta-jakarta",
+    "anantara-the-marker-hotel-dublin-hotel-dublin",
+    "carton-house-a-fairmont-managed-hotel-maynooth",
+    "dylan-hotel-dublin",
+    "glenlo-abbey-hotel-galway",
+    "park-hotel-kenmare-kenmare",
+    "the-fitzwilliam-hotel-dublin",
+    "the-lodge-at-ashford-castle-cong",
+    "the-shelbourne-autograph-collection-dublin",
+    "the-westbury-dublin-dublin",
+    "intercontinental-david-tel-aviv-by-ihg-tel-aviv",
+    "mamilla-hotel-jerusalem",
+    "the-david-citadel-jerusalem-jerusalem",
+    "the-jaffa-a-luxury-collection-hotel-tel-aviv-tel-aviv-jaffa",
+    "7pines-resort-sardinia-baja-sardinia",
+    "anantara-grand-hotel-convento-di-amalfi-grand-hotel-amalfi",
+    "baglioni-hotel-luna-venice",
+    "baglioni-hotel-regina-roma",
+    "borgo-egnazia-fasano",
+    "ca-di-dio-venice",
+    "cala-di-volpe-a-luxury-collection-hotel-costa-smeralda-arzachena",
+    "casa-angelina-praiano",
+    "casa-cipriani-milano-milan",
+    "casa-di-langa-cerretto-langhe",
+    "castelfalfi-montaione",
+    "castello-banfi-il-borgo-montalcino",
+    "castello-di-casole-a-belmond-hotel-tuscany-siena",
+    "como-castello-del-nero-barberino-tavarnelle-florence",
+    "gardena-gr-dnerhof-hotel-spa-castelrotto",
+    "grand-hotel-et-de-milan-milan",
+    "grand-hotel-excelsior-vittoria-sorrento",
+    "grand-hotel-savoia-by-radisson-collection-cortina-d-ampezzo",
+    "grand-hotel-timeo-a-belmond-hotel-taormina-taormina",
+    "grand-hotel-victoria-concept-spa-by-r-collection-hotels-menaggio",
+    "helvetia-bristol-firenze",
+    "hotel-le-fontanelle-castelnuovo-berardenga-si",
+    "hotel-lungarno-florence",
+    "hotel-maalot-roma-rome",
+    "hotel-principe-di-savoia-milan",
+    "hotel-regency-florence-firenze",
+    "hotel-splendide-royal-rome",
+    "hotel-terme-di-saturnia-natural-spa-golf-resort-saturnia-gr",
+    "me-milan-il-duca-milano",
+    "palazzo-ripetta-rome",
+    "passalacqua-moltrasio",
+    "pieve-aldina-radda-in-chianti",
+    "portrait-firenze-florence",
+    "portrait-milano-milan",
+    "portrait-roma-roma",
+    "radisson-collection-hotel-palazzo-touring-club-milan-milan",
+    "radisson-collection-palazzo-nani-venice-venice",
+    "rocco-forte-hotel-de-la-ville-rome",
+    "rocco-forte-hotel-savoy-florence",
+    "rocco-forte-masseria-torre-maizza-fasano",
+    "rocco-forte-private-villas-sciacca",
+    "rocco-forte-villa-igiea-palermo",
+    "romazzino-a-belmond-hotel-costa-smeralda-arzachena",
+    "san-clemente-palace-kempinski-venice-venice",
+    "san-domenico-palace-taormina-a-four-seasons-hotel-taormina",
+    "sina-villa-medici-autograph-collection-florence",
+    "sofitel-roma-villa-borghese-roma",
+    "splendido-mare-a-belmond-hotel-portofino-portofino",
+    "straf-milan-a-member-of-design-hotels-milan",
+    "the-ashbee-hotel-taormina",
+    "the-place-firenze-florence",
+    "the-rome-edition-roma",
+    "verdura-resort-sciacca",
+    "villa-agrippina-a-gran-melia-hotel-rome",
+    "villa-cora-florence",
+    "villa-la-massa-bagno-a-ripoli",
+    "villa-marina-capri-hotel-spa-capri",
+    "villa-san-michele-fiesole",
+    "villa-sant-andrea-a-belmond-hotel-taromina-mare-taormina",
+    "vista-palazzo-lago-di-como-como",
+    "vista-palazzo-verona-verona",
+    "w-rome-rome",
+    "half-moon-jamaica-montego-bay",
+    "s-hotel-montego-bay-montego-bay",
+    "ace-hotel-kyoto-kyoto",
+    "bellustar-tokyo-a-pan-pacific-hotel-tokyo",
+    "four-seasons-hotel-osaka-osaka",
+    "four-seasons-hotel-tokyo-at-marunouchi-tokyo",
+    "intercontinental-osaka-by-ihg-osaka",
+    "iraph-sui-a-luxury-collection-hotel-miyako-okinawa-miyakojima",
+    "kimpton-shinjuku-tokyo-by-ihg-tokyo",
+    "park-hyatt-niseko-hanazono-hokkaido",
+    "shangri-la-tokyo-tokyo",
+    "six-senses-kyoto-kyoto",
+    "sowaka-kyoto",
+    "suiran-a-luxury-collection-hotel-kyoto-kyoto",
+    "the-okura-tokyo-tokyo",
+    "the-prince-gallery-tokyo-kioicho-a-luxury-collection-hotel-tokyo",
+    "the-ritz-carlton-nikko-nikko",
+    "the-ritz-carlton-osaka-osaka",
+    "the-strings-by-intercontinental-tokyo-by-ihg-tokyo",
+    "the-tokyo-edition-toranomon-tokyo",
+    "w-osaka-osaka",
+    "the-grand-suites-at-four-seasons-taipa",
+    "como-cocoa-island-south-male-atoll",
+    "four-seasons-resort-maldives-at-kuda-huraa-republic-of-maldives",
+    "four-seasons-resort-maldives-at-landaa-giraavaru-baa-atoll",
+    "intercontinental-maldives-maamunagau-resort-by-ihg-maamunagau-island",
+    "joali-maldives-male",
+    "lux-south-ari-atoll-south-ari-atoll",
+    "naladhu-private-island-maldives-resort-male",
+    "one-only-reethi-rah-reethi-rah",
+    "six-senses-kanuhura-kanuhura",
+    "six-senses-laamu-olhuveli",
+    "soneva-fushi-eydhafushi",
+    "taj-exotica-resort-spa-south-male-atoll",
+    "iniala-harbour-house-valletta",
+    "four-seasons-resort-mauritius-at-anahita-beau-champ",
+    "lux-grand-baie-grand-baie",
+    "alila-mayakoba-playa-del-carmen",
+    "banyan-tree-puebla-puebla",
+    "four-seasons-resort-tamarindo-la-manzanilla",
+    "grand-velas-boutique-los-cabos-san-jos-del-cabo",
+    "grand-velas-los-cabos-all-inclusive-cabo-san-lucas",
+    "grand-velas-riviera-nayarit-all-inclusive-nuevo-vallarta",
+    "hotel-alexander-mexico-city",
+    "hotel-esencia-solidaridad-playa-del-carmen",
+    "hotel-san-cristobal-todos-santos",
+    "impression-isla-mujeres-by-secrets-cancun",
+    "impression-moxche-by-secrets-playa-del-carmen",
+    "intercontinental-presidente-cozumel-resort-spa-cozumel",
+    "intercontinental-presidente-monterrey-by-ihg-san-pedro-garza-garc-a",
+    "kempinski-hotel-cancun-cancun",
+    "kimpton-mas-olas-resort-and-spa-el-pescadero",
+    "kimpton-virgilio-hotel-mexico-city",
+    "maroma-a-belmond-hotel-riviera-maya-playa-del-carmen",
+    "mondrian-mexico-city-condesa-mexico-city",
+    "naviva-a-four-seasons-resort-punta-mita-mexico-bahia-de-banderas",
+    "nobu-hotel-los-cabos-cabo-san-lucas",
+    "one-only-mandarina-lo-de-marcos",
+    "palma-a-the-house-of-a-a-all-inclusive-wellness-resort-playa-del-carmen",
+    "paradisus-la-perla-playa-del-carmen",
+    "paradisus-playa-del-carmen-playa-del-carmen",
+    "park-hyatt-los-cabos-at-cabo-del-sol-cabo-del-sol",
+    "unico-hotel-riviera-maya-adults-only-all-inclusive-kantenah",
+    "viceroy-los-cabos-san-jose-del-cabo",
+    "viceroy-riviera-maya-playa-del-carmen",
+    "w-punta-de-mita-punta-de-mita",
+    "hotel-hermitage-monte-carlo-monaco",
+    "one-only-portonovi-kumbor",
+    "the-chedi-lustica-bay-tivat",
+    "four-seasons-hotel-rabat-at-kasr-al-bahr-rabat",
+    "kasbah-tamadot-asni",
+    "la-sultana-marrakech-marrakech",
+    "park-hyatt-marrakech-marrakech",
+    "the-oberoi-marrakech-marrakech",
+    "blanket-bay-glenorchy",
+    "cordis-auckland-auckland",
+    "intercontinental-auckland-auckland",
+    "the-santa-maria-a-luxury-collection-hotel-golf-resort-panama-city-panam",
+    "palacio-nazarenas-a-belmond-hotel-cusco-cusco",
+    "raffles-makati-makati",
+    "shangri-la-boracay-boracay-island",
+    "shangri-la-the-fort-manila-taguig-city",
+    "raffles-europejski-warsaw-warszawa",
+    "bela-vista-hotel-spa-praia-da-rocha",
+    "convent-square-lisbon-vignette-collection-by-ihg-lisbon",
+    "corinthia-lisbon-lisbon",
+    "herdade-da-malhadinha-nova-albernoa-beja",
+    "intercontinental-lisbon-by-ihg-lisbon",
+    "intercontinental-porto-palacio-das-cardosas-porto",
+    "kimpton-atl-ntico-algarve-by-ihg-albufeira",
+    "l-and-vineyards-montemor-o-novo",
+    "octant-douro-castelo-de-paiva",
+    "octant-furnas-furnas",
+    "octant-ponta-delgada-ponta-delgada",
+    "condado-vanderbilt-hotel-san-juan",
+    "residences-at-dorado-beach-a-ritz-carlton-reserve-dorado",
+    "four-seasons-resort-and-residences-at-the-pearl-qatar-doha",
+    "one-only-nyungwe-house-gisakura-nyamasheke",
+    "the-st-regis-red-sea-resort-red-sea",
+    "intercontinental-singapore-robertson-quay-by-ihg-singapore",
+    "jw-marriott-hotel-singapore-south-beach-singapore",
+    "mondrian-singapore-duxton-singapore",
+    "pan-pacific-orchard-singapore",
+    "pan-pacific-singapore-singapore",
+    "ellerman-house-cape-town",
+    "four-seasons-hotel-the-westcliff-johannesburg-randburg",
+    "mount-nelson-a-belmond-hotel-cape-town-cape-town",
+    "the-twelve-apostles-hotel-and-spa-cape-town",
+    "intercontinental-grand-seoul-parnas-gangnam-gu",
+    "mondrian-seoul-itaewon-seoul",
+    "the-shilla-seoul-seoul",
+    "finca-serena-mallorca-montu-ri",
+    "four-seasons-hotel-madrid-madrid",
+    "four-seasons-resort-mallorca-at-formentor-port-de-pollen-a",
+    "gran-hotel-ingles-madrid",
+    "grand-hyatt-barcelona-barcelona",
+    "hospes-las-casas-del-rey-de-baeza-a-member-of-design-hotels-seville",
+    "hotel-arts-barcelona-barcelona",
+    "hotel-colon-a-gran-melia-hotel-seville",
+    "hotel-de-mar-a-gran-melia-hotel-calvia",
+    "hotel-fenix-a-gran-meli-hotel-madrid",
+    "hotel-neri-relais-chateaux-barcelona",
+    "intercontinental-barcelona-by-ihg-barcelona",
+    "intercontinental-madrid-by-ihg-madrid",
+    "kempinski-hotel-bahia-marbella-estepona-estepona",
+    "kimpton-aysla-mallorca-by-ihg-calvia",
+    "kimpton-los-monteros-marbella-by-ihg-marbella",
+    "kimpton-vividora-hotel-by-ihg-barcelona",
+    "la-residencia-a-belmond-hotel-mallorca-deia",
+    "la-zambra-resort-gl-in-the-unbound-collection-by-hyatt-mijas",
+    "majestic-hotel-spa-barcelona-barcelona",
+    "marbella-club-hotel-golf-resort-spa-marbella",
+    "me-barcelona-barcelona",
+    "me-ibiza-ibiza",
+    "mondrian-ibiza-santa-eulalia-del-rio",
+    "nobis-hotel-palma-palma-de-mallorca",
+    "nobu-hotel-barcelona-barcelona",
+    "nobu-hotel-ibiza-bay-ibiza",
+    "nobu-hotel-marbella-marbella",
+    "nobu-hotel-san-sebasti-n-san-sebasti-n",
+    "palacio-de-los-duques-gran-meli-the-leading-hotels-of-the-world-madrid",
+    "palacio-solecio-a-small-luxury-hotel-of-the-world-m-laga",
+    "petunia-ibiza-a-beaumier-hotel-sant-josep-de-sa-talaia",
+    "radisson-hotel-gran-via-bilbao-bilbao",
+    "santo-mauro-a-luxury-collection-hotel-madrid",
+    "seda-club-hotel-small-luxury-hotel-granada",
+    "serras-barcelona-barcelona",
+    "six-senses-ibiza-sant-joan-de-labritja",
+    "sls-barcelona-sant-adria-de-besos",
+    "so-sotogrande-spa-golf-resort-hotel-san-roque",
+    "son-bunyola-hotel-banyalbufar",
+    "the-barcelona-edition-barcelona",
+    "the-lodge-mallorca-sa-pobla",
+    "the-madrid-edition-madrid",
+    "the-one-barcelona-barcelona",
+    "the-palace-a-luxury-collection-hotel-madrid-madrid",
+    "the-ritz-carlton-tenerife-abama-tenerife",
+    "the-standard-ibiza-ibiza-town",
+    "thompson-madrid-part-of-hyatt-madrid",
+    "urso-hotel-spa-madrid",
+    "villa-le-blanc-a-gran-meli-hotel-es-migjorn-gran",
+    "hotel-barri-re-le-carl-gustaf-st-barth-st-barthelemy",
+    "hotel-le-toiny-st-barthelemy",
+    "le-barth-lemy-hotel-spa-saint-barth-lemy",
+    "le-sereno-st-barths-st-barthelemy",
+    "four-seasons-resort-nevis-jessups-village",
+    "park-hyatt-st-kitts-basseterre",
+    "cap-maison-resort-spa-gros-islet",
+    "sugar-beach-a-viceroy-resort-soufriere",
+    "zoetry-marigot-bay-st-lucia-marigot-bay",
+    "la-samanna-a-belmond-hotel-st-martin-st-martin",
+    "grand-hotel-des-bains-kempinski-st-moritz-st-moritz",
+    "hotel-d-angleterre-geneva-geneva",
+    "hotel-eden-roc-ascona",
+    "kempinski-palace-engelberg-engelberg",
+    "la-r-serve-eden-au-lac-zurich-z-rich",
+    "la-reserve-geneve-hotel-spa-geneva",
+    "mont-cervin-palace-zermatt",
+    "radisson-blu-hotel-reussen-andermatt-andermatt",
+    "six-senses-crans-montana-crans-montana",
+    "the-alpina-gstaad-gstaad",
+    "the-ritz-carlton-hotel-de-la-paix-geneva-geneva",
+    "the-view-lugano-paradiso",
+    "tschuggen-grand-hotel-arosa",
+    "w-verbier-verbier",
+    "widder-hotel-zurich",
+    "hotel-proverbs-taipei-taipei-city",
+    "anantara-chiang-mai-resort-chiang-mai",
+    "anantara-rasananda-koh-phangan-villas-suratthani",
+    "andaz-pattaya-jomtien-beach-chonburi",
+    "banyan-tree-krabi-krabi",
+    "banyan-tree-phuket-choeng-thale",
+    "banyan-tree-samui-koh-samui",
+    "devasom-khao-lak-beach-resort-villas-phang-nga",
+    "dinso-resort-villas-phuket-vignette-collection-by-ihg-patong",
+    "four-seasons-resort-chiang-mai-mae-rim",
+    "four-seasons-tented-camp-golden-triangle-chiang-saen",
+    "iniala-beach-house-takua-thung",
+    "intercontinental-pattaya-resort-by-ihg-pattaya",
+    "intercontinental-phuket-resort-by-ihg-kamala",
+    "keemala-phuket",
+    "kimpton-kitalay-samui-by-ihg-koh-samui",
+    "kimpton-maa-lai-bangkok-by-ihg-bangkok",
+    "napasai-a-belmond-hotel-koh-samui-koh-samui",
+    "phulay-bay-a-ritz-carlton-reserve-krabi",
+    "sindhorn-kempinski-hotel-bangkok-bangkok",
+    "the-naka-island-a-luxury-collection-resort-spa-phuket-pa-klok",
+    "the-ritz-carlton-koh-samui-koh-samui",
+    "the-siam-bangkok",
+    "the-standard-bangkok-mahanakhon-bangkok",
+    "four-seasons-hotel-tunis-tunis",
+    "beach-enclave-providenciales",
+    "rock-house-providenciales",
+    "salterra-a-luxury-collection-resort-spa-south-caicos-cockburn-harbour",
+    "wymara-resort-and-villas-providenciales",
+    "buoy-haus-beach-resort-st-thomas-autograph-collection-st-thomas",
+    "four-seasons-hotel-dubai-international-financial-centre-dubai",
+    "intercontinental-residences-dubai-business-bay-by-ihg-dubai",
+    "jumeirah-al-naseem-dubai-dubai",
+    "jumeirah-dar-al-masyaf-dubai",
+    "jumeirah-marsa-al-arab-dubai",
+    "sls-dubai-hotel-residences-dubai",
+    "so-uptown-dubai-dubai",
+    "taj-dubai-dubai",
+    "the-lana-dorchester-collection-dubai",
+    "100-princes-street-edinburgh",
+    "11-cadogan-gardens-and-the-apartments-london",
+    "aethos-london-shoreditch-london",
+    "cliveden-house-an-iconic-luxury-hotel-maidenhead",
+    "como-metropolitan-london-london",
+    "coworth-park-dorchester-collection-ascot",
+    "dorset-square-hotel-firmdale-hotels-london",
+    "estelle-manor-park",
+    "fairmont-windsor-park-egham",
+    "four-seasons-hotel-hampshire-hook",
+    "st-martins-lane-london-london",
+    "the-cadogan-a-belmond-hotel-london-london",
+    "the-emory-belgravia",
+    "the-gleneagles-townhouse-edinburgh",
+    "the-langley-a-luxury-collection-hotel-buckinghamshire-slough",
+    "the-london-edition-london",
+    "the-londoner-hotel-london",
+    "the-marylebone-london",
+    "the-milestone-hotel-residences-london",
+    "the-ned-london",
+    "the-royal-crescent-hotel-spa-bath",
+    "the-soho-hotel-london",
+    "the-standard-london-london",
+    "virgin-hotels-edinburgh-edinburgh",
+    "w-edinburgh-edinburgh",
+    "1-hotel-hanalei-bay-princeville",
+    "21c-museum-hotel-cincinnati-cincinnati",
+    "21c-museum-hotel-louisville-louisville",
+    "21c-museum-hotel-st-louis-st-louis",
+    "27-north-healdsburg",
+    "33-seaport-hotel-new-york-new-york",
+    "ace-hotel-brooklyn-brooklyn",
+    "acqualina-resort-residences-on-the-beach-sunny-isles-beach",
+    "alila-marea-beach-resort-a-hyatt-luxury-resort-encinitas",
+    "alila-napa-valley-a-hyatt-luxury-resort-st-helena",
+    "alma-san-diego-downtown-a-tribute-portfolio-hotel-san-diego",
+    "amara-resort-and-spa-sedona",
+    "ambiente-a-landscape-hotel-sedona-sedona",
+    "amrit-ocean-resort-singer-island",
+    "carmel-valley-ranch-carmel",
+    "casa-cipriani-new-york-new-york",
+    "castle-hot-springs-morristown",
+    "chatham-bars-inn-chatham",
+    "cloister-at-the-boca-raton-boca-raton",
+    "colony-palms-hotel-bungalows-palm-springs",
+    "cordevalle-san-martin",
+    "dawn-ranch-guerneville",
+    "downtown-l-a-proper-los-angeles",
+    "dunton-hot-springs-dolores",
+    "eaton-dc-washington",
+    "eau-palm-beach-resort-spa-manalapan",
+    "eden-roc-miami-beach-miami-beach",
+    "edgewood-tahoe-resort-stateline",
+    "ehp-resort-marina-east-hampton",
+    "elliot-park-hotel-autograph-collection-minneapolis",
+    "emeline-charleston",
+    "equinox-hotel-new-york-new-york",
+    "espacio-the-jewel-of-waikiki-honolulu",
+    "estancia-la-jolla-hotel-spa-la-jolla",
+    "fairmont-austin-austin",
+    "fairmont-chicago-millennium-park-chicago",
+    "fairmont-dallas-dallas",
+    "fairmont-el-san-juan-hotel-carolina",
+    "fairmont-sonoma-mission-inn-spa-sonoma",
+    "farmhouse-inn-forestville",
+    "fontainebleau-las-vegas-las-vegas",
+    "forth-hotel-atlanta-atlanta",
+    "fouquet-s-new-york-new-york",
+    "four-seasons-hotel-and-residences-fort-lauderdale-fort-lauderdale",
+    "four-seasons-hotel-at-the-surf-club-surfside",
+    "four-seasons-hotel-baltimore-baltimore",
+    "four-seasons-hotel-los-angeles-at-westlake-village-thousand-oaks",
+    "four-seasons-hotel-san-francisco-at-embarcadero-san-francisco",
+    "four-seasons-hotel-silicon-valley-at-east-palo-alto-palo-alto",
+    "four-seasons-hotel-st-louis-st-louis",
+    "four-seasons-resort-rancho-encantado-santa-fe-santa-fe",
+    "gansevoort-meatpacking-new-york",
+    "glenmere-mansion-chester",
+    "grand-bohemian-charleston-autograph-collection-charleston",
+    "grand-bohemian-hotel-asheville-autograph-collection-asheville",
+    "grand-hyatt-deer-valley-park-city",
+    "grand-hyatt-indian-wells-resort-villas-indian-wells",
+    "grand-hyatt-kauai-resort-spa-koloa",
+    "hotel-californian-santa-barbara",
+    "hotel-clio-a-luxury-collection-hotel-denver-cherry-creek-denver",
+    "hotel-colee-atlanta-buckhead-autograph-collection-atlanta",
+    "hotel-commonwealth-boston",
+    "hotel-emma-at-pearl-san-antonio",
+    "hotel-genevieve-louisville",
+    "hotel-granduca-houston-houston",
+    "hotel-kansas-city-kansas-city",
+    "hotel-magdalena-austin",
+    "hotel-nia-autograph-collection-menlo-park",
+    "hotel-per-la-autograph-collection-los-angeles",
+    "hotel-polaris-colorado-springs",
+    "hotel-saint-augustine-houston",
+    "hotel-van-zandt-austin",
+    "hotel-wailea-relais-ch-teaux-kihei",
+    "hotel-yountville-yountville",
+    "hotel-zoe-san-francisco",
+    "hyatt-regency-coconut-point-resort-spa-bonita-springs",
+    "hyatt-regency-huntington-beach-resort-and-spa-huntington-beach",
+    "ingleside-estate-palm-springs",
+    "inn-and-spa-at-loretto-santa-fe",
+    "inn-at-perry-cabin-st-michaels",
+    "inn-on-fifth-naples",
+    "inness-accord",
+    "intercontinental-buckhead-atlanta-by-ihg-atlanta",
+    "intercontinental-indianapolis-indianapolis",
+    "intercontinental-los-angeles-downtown-by-ihg-los-angeles",
+    "intercontinental-new-york-barclay-by-ihg-new-york",
+    "intercontinental-new-york-times-square-by-ihg-new-york",
+    "intercontinental-san-antonio-riverwalk-by-ihg-san-antonio",
+    "intercontinental-san-diego-by-ihg-san-diego",
+    "intercontinental-seattle-bellevue-by-ihg-bellevue",
+    "intercontinental-washington-d-c-the-wharf-by-ihg-washington",
+    "isla-bella-beach-resort-spa-marathon",
+    "jekyll-ocean-club-jekyll-island",
+    "jw-marriott-marco-island-beach-resort-marco-island",
+    "jw-marriott-orlando-bonnet-creek-resort-spa-orlando",
+    "jw-marriott-orlando-grande-lakes-orlando",
+    "jw-marriott-scottsdale-camelback-inn-resort-spa-scottsdale",
+    "jw-marriott-turnberry-resort-spa-aventura",
+    "jw-marriott-anaheim-resort-anaheim",
+    "keswick-hall-golf-club-keswick",
+    "kimpton-armory-hotel-bozeman-by-ihg-bozeman",
+    "kimpton-brice-hotel-by-ihg-savannah",
+    "kimpton-canary-hotel-by-ihg-santa-barbara",
+    "kimpton-cardinal-hotel-by-ihg-winston-salem",
+    "kimpton-claret-hotel-by-ihg-denver",
+    "kimpton-cottonwood-by-ihg-omaha",
+    "kimpton-epic-hotel-by-ihg-miami",
+    "kimpton-gray-hotel-by-ihg-chicago",
+    "kimpton-hotel-fontenot-by-ihg-new-orleans",
+    "kimpton-hotel-monaco-salt-lake-city-salt-lake-city",
+    "kimpton-hotel-vintage-portland-by-ihg-portland",
+    "kimpton-journeyman-hotel-by-ihg-milwaukee",
+    "kimpton-la-peer-hotel-west-hollywood-by-ihg-west-hollywood",
+    "kimpton-marlowe-hotel-by-ihg-cambridge",
+    "kimpton-palladian-hotel-seattle",
+    "kimpton-pittman-hotel-downtown-dallas-by-ihg-dallas",
+    "kimpton-riverplace-hotel-by-ihg-portland",
+    "kimpton-santo-san-antonio-riverwalk-by-ihg-san-antonio",
+    "kimpton-sawyer-hotel-by-ihg-sacramento",
+    "kimpton-shane-hotel-by-ihg-atlanta",
+    "kimpton-sylvan-hotel-by-ihg-atlanta",
+    "kimpton-taconic-hotel-by-ihg-manchester",
+    "kimpton-the-forum-hotel-by-ihg-charlottesville",
+    "kimpton-tryon-park-charlotte",
+    "kimpton-vero-beach-hotel-spa-by-ihg-vero-beach",
+    "ko-a-kea-resort-on-po-ipu-beach-koloa",
+    "kona-kai-san-diego-san-diego",
+    "l-auberge-de-sedona-sedona",
+    "l-auberge-del-mar-del-mar",
+    "la-cantera-resort-spa-san-antonio",
+    "lake-austin-spa-resort-austin",
+    "langham-huntington-pasadena-los-angeles-pasadena",
+    "laplaya-beach-golf-resort-a-noble-house-resort-naples",
+    "laurel-hotel-and-spa-auburn",
+    "lido-house-autograph-collection-newport-beach",
+    "limelight-hotel-aspen-aspen",
+    "limelight-hotel-denver-denver",
+    "limelight-hotel-ketchum-ketchum",
+    "limelight-hotel-snowmass-snowmass-village",
+    "loews-atlanta-hotel-atlanta",
+    "loews-chicago-hotel-chicago",
+    "loews-nashville-hotel-at-vanderbilt-plaza-nashville",
+    "loews-philadelphia-hotel-philadelphia",
+    "loews-regency-new-york-hotel-new-york",
+    "lotte-hotel-seattle-seattle",
+    "lumiere-by-dunton-telluride",
+    "macarthur-place-sonoma",
+    "maison-m-tier-new-orleans",
+    "mandalay-bay-resort-and-casino-las-vegas",
+    "marquesa-key-west-key-west",
+    "marram-montauk-montauk",
+    "mayfair-house-hotel-garden-coconut-grove-miami-miami",
+    "meadowood-napa-valley-st-helena",
+    "mgm-grand-hotel-casino-las-vegas",
+    "miraval-berkshires-lenox",
+    "mission-pacific-beach-resort-oceanside",
+    "moana-surfrider-a-westin-resort-spa-waikiki-beach-honolulu",
+    "mollie-aspen-aspen",
+    "mondrian-los-angeles-west-hollywood",
+    "ocean-key-resort-a-noble-house-resort-key-west",
+    "oceans-edge-resort-marina-key-west",
+    "omni-amelia-island-resort-fernandina-beach",
+    "omni-homestead-resort-hot-springs",
+    "omni-hotel-at-the-battery-atlanta-atlanta",
+    "omni-mount-washington-resort-bretton-woods",
+    "omni-oklahoma-city-hotel-oklahoma-city",
+    "omni-orlando-at-championsgate-championsgate",
+    "omni-scottsdale-resort-spa-at-montelucia-scottsdale",
+    "omni-tucson-national-resort-tucson",
+    "one-only-moonlight-basin-big-sky",
+    "palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco",
+    "park-hyatt-aviara-resort-and-spa-carlsbad",
+    "park-hyatt-beaver-creek-resort-spa-beaver-creek",
+    "park-hyatt-washington-dc-washington-dc",
+    "park-lane-new-york-new-york",
+    "park-mgm-las-vegas-las-vegas",
+    "parker-palm-springs-palm-springs",
+    "pas-a-hotel-spa-huntington-beach",
+    "paws-up-montana-greenough",
+    "pelican-grand-beach-resort-a-noble-house-resort-fort-lauderdale",
+    "pendry-baltimore-baltimore",
+    "pendry-chicago-chicago",
+    "pendry-natirar-peapack",
+    "pendry-washington-dc-washington",
+    "pga-national-resort-palm-beach-gardens",
+    "pier-sixty-six-fort-lauderdale",
+    "playa-largo-resort-spa-autograph-collection-key-largo",
+    "red-jacket-beach-resort-south-yarmouth",
+    "residences-at-the-little-nell-aspen",
+    "riggs-washington-dc-washington",
+    "royal-palms-resort-and-spa-part-of-hyatt-phoenix",
+    "salamander-middleburg-middleburg",
+    "salamander-washington-dc-washington",
+    "san-francisco-proper-san-francisco",
+    "santa-monica-proper-hotel-a-member-of-design-hotels-santa-monica",
+    "scribner-s-catskill-lodge-hunter",
+    "sensei-lana-i-a-four-seasons-resort-lanai-city",
+    "shinola-hotel-detroit",
+    "skylofts-at-mgm-grand-las-vegas",
+    "sls-lux-brickell-miami",
+    "sls-south-beach-miami-beach",
+    "smyth-tribeca-new-york",
+    "sofitel-philadelphia-at-rittenhouse-square-philadelphia",
+    "sofitel-washington-dc-lafayette-square-washington",
+    "soho-grand-hotel-new-york",
+    "sonnenalp-vail",
+    "stein-eriksen-lodge-park-city",
+    "stein-eriksen-residences-park-city",
+    "sundance-mountain-resort-sundance",
+    "sunriver-resort-sunriver",
+    "sunset-marquis-west-hollywood",
+    "sunset-tower-hotel-west-hollywood",
+    "teton-mountain-lodge-and-spa-teton-village",
+    "the-adolphus-autograph-collection-dallas",
+    "the-american-club-kohler",
+    "the-ballantyne-a-luxury-collection-hotel-charlotte-charlotte",
+    "the-beekman-a-thompson-hotel-new-york",
+    "the-ben-autograph-collection-west-palm-beach",
+    "the-beverly-hills-hotel-beverly-hills",
+    "the-cloudveil-autograph-collection-jackson",
+    "the-crawford-hotel-denver",
+    "the-dominick-new-york",
+    "the-dupont-circle-hotel-washington",
+    "the-edgewater-hotel-seattle",
+    "the-estate-yountville-yountville",
+    "the-fearrington-house-pittsboro",
+    "the-fifth-avenue-hotel-new-york",
+    "the-fontaine-hotel-kansas-city",
+    "the-global-ambassador-phoenix",
+    "the-hollywood-roosevelt-los-angeles",
+    "the-hotel-landing-wayzata",
+    "the-hythe-a-luxury-collection-resort-vail-vail",
+    "the-ivy-hotel-baltimore",
+    "the-junto-columbus",
+    "the-lake-house-on-canandaigua-canandaigua",
+    "the-lennox-miami-beach-miami-beach",
+    "the-liberty-a-marriott-luxury-collection-hotel-boston-boston",
+    "the-line-austin-austin",
+    "the-line-dc-washington-d-c",
+    "the-lodge-at-kukui-ula-koloa",
+    "the-lodge-at-sonoma-resort-autograph-collection-sonoma",
+    "the-luxury-collection-hotel-manhattan-midtown-new-york",
+    "the-madrona-healdsburg",
+    "the-manner-new-york",
+    "the-ned-nomad-new-york",
+    "the-nines-a-luxury-collection-hotel-portland-portland",
+    "the-perry-hotel-marina-key-west",
+    "the-pierside-santa-monica-santa-monica",
+    "the-pinch-hotel-charleston",
+    "the-post-oak-hotel-at-uptown-houston-houston",
+    "the-preserve-sporting-club-resort-richmond",
+    "the-quoin-hotel-wilmington",
+    "the-rally-hotel-at-mcgregor-square-denver",
+    "the-ranch-at-laguna-beach-laguna-beach",
+    "the-ranch-at-rock-creek-philipsburg",
+    "the-ranch-hudson-valley-sloatsburg",
+    "the-ranch-malibu-malibu",
+    "the-rittenhouse-hotel-philadelphia",
+    "the-ritz-carlton-coconut-grove-miami-miami",
+    "the-ritz-carlton-dallas-las-colinas-irving",
+    "the-ritz-carlton-georgetown-washington-d-c-washington",
+    "the-ritz-carlton-naples-tibur-n-naples",
+    "the-ritz-carlton-residences-orlando-grande-lakes-orlando",
+    "the-ritz-carlton-residences-waikiki-beach-waikiki-beach",
+    "the-ritz-carlton-reynolds-lake-oconee-greensboro",
+    "the-ritz-carlton-amelia-island-fernandina-beach",
+    "the-ritz-carlton-pentagon-city-arlington",
+    "the-ritz-carlton-portland-portland",
+    "the-ritz-carlton-rancho-mirage-rancho-mirage",
+    "the-ritz-carlton-tysons-corner-mclean",
+    "the-roundtree-amagansett-amagansett",
+    "the-royal-hawaiian-a-luxury-collection-resort-waikiki-honolulu",
+    "the-ryder-hotel-charleston",
+    "the-sanderling-kitty-hawk",
+    "the-seabird-resort-oceanside",
+    "the-seagate-hotel-and-spa-delray-beach",
+    "the-sebastian-vail-vail",
+    "the-sky-residences-at-w-aspen-aspen",
+    "the-st-regis-longboat-key-resort-longboat-key",
+    "the-standard-high-line-new-york",
+    "the-standard-spa-miami-beach-miami-beach",
+    "the-standard-east-village-new-york",
+    "the-state-hotel-seattle",
+    "the-sun-rose-west-hollywood-west-hollywood",
+    "the-tides-inn-irvington",
+    "the-times-square-edition-new-york",
+    "the-towers-at-lotte-new-york-palace-new-york",
+    "the-twenty-two-new-york-new-york",
+    "the-us-grant-a-luxury-collection-hotel-san-diego-san-diego",
+    "the-vinoy-resort-golf-club-autograph-collection-saint-petersburg",
+    "the-wall-street-hotel-new-york",
+    "the-watergate-hotel-washington",
+    "the-wauwinet-nantucket",
+    "the-west-hollywood-edition-west-hollywood",
+    "the-westin-anaheim-resort-anaheim",
+    "the-westin-maui-resort-spa-ka-anapali-lahaina",
+    "the-whitby-new-york",
+    "the-william-vale-brooklyn",
+    "the-windsor-court-new-orleans",
+    "thompson-atlanta-buckhead-atlanta",
+    "thompson-houston-houston",
+    "thompson-palm-springs-palm-springs",
+    "thompson-san-antonio-river-walk-san-antonio",
+    "tommy-bahama-miramonte-resort-spa-indian-wells",
+    "tower-at-the-boca-raton-boca-raton",
+    "troutbeck-amenia",
+    "vail-residences-at-cascade-village-vail",
+    "viceroy-hotel-washington-dc-washington",
+    "viceroy-santa-monica-santa-monica",
+    "viceroy-snowmass-snowmass-village",
+    "viewline-resort-snowmass-autograph-collection-snowmass-village",
+    "virgin-hotels-dallas-dallas",
+    "w-new-york-union-square-new-york",
+    "w-seattle-seattle",
+    "waikiki-beach-marriott-resort-spa-honolulu",
+    "wailea-beach-resort-marriott-maui-kihei",
+    "warren-street-new-york",
+    "wayfinder-waikiki-honolulu",
+    "weekapaug-inn-weekapaug",
+    "wequassett-resort-and-golf-club-harwich",
+    "willard-intercontinental-washington-by-ihg-washington",
+    "winvian-farm-morris",
+    "woodstock-inn-resort-woodstock",
+    "wythe-hotel-brooklyn",
+    "xv-beacon-boston",
+    "yacht-club-at-the-boca-raton-adults-only-boca-raton",
+    "yours-truly-dc-vignette-collection-by-ihg-washington",
+    "banyan-tree-lang-co-phu-loc-district",
+    "capella-hanoi-hanoi",
+    "intercontinental-halong-bay-resort-by-ihg-ha-long",
+    "jw-marriott-phu-quoc-emerald-bay-resort-spa-phu-quoc",
+    "regent-phu-quoc-phu-quoc",
+    "six-senses-con-dao-con-son"
+  ],
+  "hotels": {
+    "six-senses-uluwatu-pecatu": {
+      "latitude": -8.8440542,
+      "longitude": 115.1293426,
+      "needs_review": true
+    },
+    "ashford-castle-mayo": {
+      "latitude": 53.5344314,
+      "longitude": -9.2845995,
+      "needs_review": true
+    },
+    "caruso-a-belmond-hotel-amalfi-coast-ravello": {
+      "latitude": 40.6496643,
+      "longitude": 14.6122753,
+      "needs_review": true
+    },
+    "grand-hotel-tremezzo-lake-como-tremezzina": {
+      "latitude": 45.9835245,
+      "longitude": 9.1914909,
+      "needs_review": true
+    },
+    "villa-d-este-cernobbio": {
+      "latitude": 45.8449282,
+      "longitude": 9.0798188,
+      "needs_review": true
+    },
+    "four-seasons-resort-punta-mita-punta-de-mita": {
+      "latitude": 20.7807646,
+      "longitude": -105.5291627,
+      "needs_review": true
+    },
+    "six-senses-douro-valley-samod-es": {
+      "latitude": 41.1438143,
+      "longitude": -7.8114698,
+      "needs_review": true
+    },
+    "the-st-regis-bahia-beach-resort-puerto-rico-rio-grande": {
+      "latitude": 18.3474409,
+      "longitude": -65.8163814,
+      "needs_review": true
+    },
+    "six-senses-zil-pasyon-seychelles-felicite-island": {
+      "latitude": -4.3276273,
+      "longitude": 55.8747462,
+      "needs_review": true
+    },
+    "como-parrot-cay-parrot-cay": {
+      "needs_review": true
+    },
+    "the-connaught-mayfair": {
+      "latitude": 51.5101815,
+      "longitude": -0.1502153,
+      "needs_review": true
+    },
+    "1-hotel-west-hollywood-west-hollywood": {
+      "latitude": 34.0923014,
+      "longitude": -118.3692894,
+      "needs_review": true
+    },
+    "acqualina-resort-residences-sunny-isles": {
+      "latitude": 25.9407949,
+      "longitude": -80.1204954,
+      "needs_review": true
+    },
+    "auberge-du-soleil-st-helena": {
+      "latitude": 38.5052288,
+      "longitude": -122.470042,
+      "needs_review": true
+    },
+    "cavallo-point-sausalito": {
+      "latitude": 37.8376806,
+      "longitude": -122.4794021,
+      "needs_review": true
+    },
+    "four-seasons-resort-and-residences-napa-valley-calistoga": {
+      "latitude": 38.5847929,
+      "longitude": -122.567908,
+      "needs_review": true
+    },
+    "four-seasons-resort-hualalai-kailua-kona": {
+      "latitude": 19.8278417,
+      "longitude": -155.991648,
+      "needs_review": true
+    },
+    "four-seasons-resort-jackson-hole-teton-village": {
+      "latitude": 43.587984,
+      "longitude": -110.827989,
+      "needs_review": true
+    },
+    "four-seasons-resort-orlando-at-walt-disney-world-resort-lake-buena-vista": {
+      "latitude": 28.3716746,
+      "longitude": -81.5239625,
+      "needs_review": true
+    },
+    "little-palm-island-resort-spa-little-torch-key": {
+      "latitude": 24.6693097,
+      "longitude": -81.3909144,
+      "needs_review": true
+    },
+    "malibu-beach-inn-hotel-spa-malibu": {
+      "latitude": 34.035591,
+      "longitude": -118.689423,
+      "needs_review": true
+    },
+    "montage-big-sky-big-sky": {
+      "latitude": 45.255111,
+      "longitude": -111.2661895,
+      "needs_review": true
+    },
+    "montage-healdsburg-healdsburg": {
+      "latitude": 38.6483531,
+      "longitude": -122.8569377,
+      "needs_review": true
+    },
+    "montage-laguna-beach-laguna-beach": {
+      "latitude": 33.5147278,
+      "longitude": -117.7571244,
+      "needs_review": true
+    },
+    "montage-palmetto-bluff-bluffton": {
+      "latitude": 32.2037803,
+      "longitude": -80.883911,
+      "needs_review": true
+    },
+    "ojai-valley-inn-ojai": {
+      "latitude": 34.4374825,
+      "longitude": -119.2550624,
+      "needs_review": true
+    },
+    "rancho-valencia-resort-and-spa-rancho-santa-fe": {
+      "latitude": 32.9911414,
+      "longitude": -117.1862517,
+      "needs_review": true
+    },
+    "rosewood-miramar-beach-montecito": {
+      "latitude": 34.4210367,
+      "longitude": -119.6298774,
+      "needs_review": true
+    },
+    "the-boca-raton-boca-raton": {
+      "latitude": 26.4069402,
+      "longitude": -80.1624304,
+      "needs_review": true
+    },
+    "the-ritz-carlton-bacara-santa-barbara-goleta": {
+      "latitude": 34.4358295,
+      "longitude": -119.8276389,
+      "needs_review": true
+    },
+    "the-ritz-carlton-bal-harbour-miami-bal-harbour": {
+      "latitude": 25.8986086,
+      "longitude": -80.1234051,
+      "needs_review": true
+    },
+    "the-ritz-carlton-maui-kapalua-kapalua": {
+      "latitude": 21.0016708,
+      "longitude": -156.6545975,
+      "needs_review": true
+    },
+    "the-ritz-carlton-o-ahu-turtle-bay-kahuku": {
+      "latitude": 21.679124,
+      "longitude": -157.94838,
+      "needs_review": true
+    },
+    "the-ritz-carlton-bachelor-gulch-avon": {
+      "latitude": 39.6232663,
+      "longitude": -106.5416488,
+      "needs_review": true
+    },
+    "the-ritz-carlton-half-moon-bay-half-moon-bay": {
+      "latitude": 37.4353366,
+      "longitude": -122.441445,
+      "needs_review": true
+    },
+    "the-ritz-carlton-laguna-niguel-dana-point": {
+      "latitude": 33.4669721,
+      "longitude": -117.6981075,
+      "needs_review": true
+    },
+    "the-ritz-carlton-lake-tahoe-truckee": {
+      "latitude": 39.3279454,
+      "longitude": -120.1835765,
+      "needs_review": true
+    },
+    "the-ritz-carlton-naples-naples": {
+      "latitude": 26.1421976,
+      "longitude": -81.7942944,
+      "needs_review": true
+    },
+    "the-st-regis-bal-harbour-resort-bal-harbour": {
+      "latitude": 25.8888678,
+      "longitude": -80.1227479,
+      "needs_review": true
+    },
+    "the-tampa-edition-tampa": {
+      "latitude": 27.9437901,
+      "longitude": -82.4508698,
+      "needs_review": true
+    },
+    "twin-farms-barnard": {
+      "latitude": 43.7248522,
+      "longitude": -72.5892235,
+      "needs_review": true
+    },
+    "the-lodge-at-torrey-pines-la-jolla": {
+      "latitude": 32.9034778,
+      "longitude": -117.2444737,
+      "needs_review": true
+    },
+    "the-sanctuary-at-kiawah-island-golf-resort-kiawah-island": {
+      "latitude": 32.6082373,
+      "longitude": -80.0848166,
+      "needs_review": true
+    },
+    "ocean-house-watch-hill": {
+      "latitude": 41.3102671,
+      "longitude": -71.8534873,
+      "needs_review": true
+    },
+    "the-weekapaug-inn-westerly": {
+      "latitude": 41.3775996,
+      "longitude": -71.8272911,
+      "needs_review": true
+    },
+    "six-senses-ninh-van-bay-ninh-hoa": {
+      "latitude": 12.5483851,
+      "longitude": 109.0611039,
+      "needs_review": true
+    },
+    "almanac-palais-vienna-wien": {
+      "latitude": 48.2083537,
+      "longitude": 16.3725042,
+      "needs_review": true
+    },
+    "anantara-palais-hansen-vienna-hotel-vienna": {
+      "latitude": 48.2083537,
+      "longitude": 16.3725042,
+      "needs_review": true
+    },
+    "hotel-goldener-hirsch-a-luxury-collection-hotel-salzburg-salzburg": {
+      "latitude": 47.7981346,
+      "longitude": 13.0464806,
+      "needs_review": true
+    },
+    "hotel-imperial-a-luxury-collection-hotel-vienna-vienna": {
+      "latitude": 48.2083537,
+      "longitude": 16.3725042,
+      "needs_review": true
+    },
+    "hotel-sacher-wien-vienna": {
+      "latitude": 48.2040427,
+      "longitude": 16.3697708,
+      "needs_review": true
+    },
+    "so-vienna-vienna": {
+      "latitude": 48.2129888,
+      "longitude": 16.379938,
+      "needs_review": true
+    },
+    "the-amauris-vienna-relais-ch-teaux-vienna": {
+      "latitude": 48.2083537,
+      "longitude": 16.3725042,
+      "needs_review": true
+    },
+    "the-ritz-carlton-vienna-vienna": {
+      "latitude": 48.2022505,
+      "longitude": 16.3760702,
+      "needs_review": true
+    },
+    "thurnher-s-alpenhof-zuers-am-arlberg": {
+      "latitude": 47.17122,
+      "longitude": 10.1631739,
+      "needs_review": true
+    },
+    "pink-sands-resort-eleuthera": {
+      "latitude": 25.0884534,
+      "longitude": -76.1345836,
+      "needs_review": true
+    },
+    "corinthia-grand-hotel-astoria-brussels-brussels": {
+      "latitude": 50.8465573,
+      "longitude": 4.351697,
+      "needs_review": true
+    },
+    "hotel-amigo-a-rocco-forte-hotel-brussels": {
+      "latitude": 50.8465573,
+      "longitude": 4.351697,
+      "needs_review": true
+    },
+    "le-louise-hotel-brussels-mgallery-brussels": {
+      "latitude": 50.8465573,
+      "longitude": 4.351697,
+      "needs_review": true
+    },
+    "belmond-safaris-maun": {
+      "latitude": -19.9796252,
+      "longitude": 23.4257853,
+      "needs_review": true
+    },
+    "xigera-safari-lodge-maun": {
+      "latitude": -19.9860951,
+      "longitude": 23.4224352,
+      "needs_review": true
+    },
+    "palacio-tangara-oetker-hotels-s-o-paulo": {
+      "latitude": -23.5506507,
+      "longitude": -46.6333824,
+      "needs_review": true
+    },
+    "santa-teresa-hotel-rio-de-janeiro-mgallery-collection-rio-de-janeiro": {
+      "latitude": -22.9110137,
+      "longitude": -43.2093727,
+      "needs_review": true
+    },
+    "six-senses-krabey-island-prey-nob": {
+      "latitude": 10.6524043,
+      "longitude": 103.7958258,
+      "needs_review": true
+    },
+    "auberge-saint-antoine-qu-bec-city": {
+      "latitude": 46.8144602,
+      "longitude": -71.2018231,
+      "needs_review": true
+    },
+    "fairmont-the-queen-elizabeth-montreal": {
+      "latitude": 45.5002035,
+      "longitude": -73.5684763,
+      "needs_review": true
+    },
+    "fairmont-waterfront-vancouver": {
+      "latitude": 49.2872705,
+      "longitude": -123.113634,
+      "needs_review": true
+    },
+    "fogo-island-inn-joe-batt-s-arm": {
+      "latitude": 49.7305209,
+      "longitude": -54.1783265,
+      "needs_review": true
+    },
+    "muir-a-luxury-collection-hotel-halifax-halifax": {
+      "latitude": 44.648618,
+      "longitude": -63.5859487,
+      "needs_review": true
+    },
+    "shangri-la-toronto-toronto": {
+      "latitude": 43.6492023,
+      "longitude": -79.3862916,
+      "needs_review": true
+    },
+    "sofitel-montreal-golden-mile-montreal": {
+      "latitude": 45.5031824,
+      "longitude": -73.5698065,
+      "needs_review": true
+    },
+    "the-st-regis-toronto-toronto": {
+      "latitude": 43.6497715,
+      "longitude": -79.3803057,
+      "needs_review": true
+    },
+    "vogue-hotel-montreal-downtown-curio-collection-by-hilton-montreal": {
+      "latitude": 45.5031824,
+      "longitude": -73.5698065,
+      "needs_review": true
+    },
+    "w-toronto-toronto": {
+      "latitude": 43.6671938,
+      "longitude": -79.4629678,
+      "needs_review": true
+    },
+    "hotel-indigo-grand-cayman-cayman-islands": {
+      "latitude": 19.7031822,
+      "longitude": -79.9174627,
+      "needs_review": true
+    },
+    "four-seasons-hotel-hangzhou-at-hangzhou-centre-hangzhou": {
+      "latitude": 30.2489634,
+      "longitude": 120.2052342,
+      "needs_review": true
+    },
+    "four-seasons-hotel-hangzhou-at-west-lake-hangzhou": {
+      "latitude": 30.2489634,
+      "longitude": 120.2052342,
+      "needs_review": true
+    },
+    "four-seasons-hotel-suzhou-suzhou": {
+      "latitude": 31.311123,
+      "longitude": 120.6212881,
+      "needs_review": true
+    },
+    "four-seasons-hotel-tianjin-tianjin": {
+      "latitude": 39.3032619,
+      "longitude": 117.4163641,
+      "needs_review": true
+    },
+    "intercontinental-xiangyang-by-ihg-xiangyang": {
+      "latitude": 32.010998,
+      "longitude": 112.1163785,
+      "needs_review": true
+    },
+    "kimpton-qiantan-shanghai-by-ihg-shanghai": {
+      "latitude": 31.2312707,
+      "longitude": 121.4700152,
+      "needs_review": true
+    },
+    "rissai-valley-a-ritz-carlton-reserve-jiuzhaigou": {
+      "latitude": 33.3071597,
+      "longitude": 103.9325993,
+      "needs_review": true
+    },
+    "the-langham-shenzhen-shenzhen": {
+      "latitude": 22.5390891,
+      "longitude": 114.0155634,
+      "needs_review": true
+    },
+    "the-middle-house-shanghai": {
+      "latitude": 31.2318339,
+      "longitude": 121.4582093,
+      "needs_review": true
+    },
+    "the-shanghai-edition-shanghai": {
+      "latitude": 31.2312707,
+      "longitude": 121.4700152,
+      "needs_review": true
+    },
+    "casa-pestagua-relais-ch-teaux-cartagena": {
+      "latitude": 10.4265566,
+      "longitude": -75.5441671,
+      "needs_review": true
+    },
+    "four-seasons-hotel-casa-medina-bogot-bogota": {
+      "latitude": 4.6533817,
+      "longitude": -74.0836331,
+      "needs_review": true
+    },
+    "sofitel-bar-cartagena-beach-resort-cartagena-de-indias": {
+      "latitude": 10.4265566,
+      "longitude": -75.5441671,
+      "needs_review": true
+    },
+    "hotel-nantipa-a-tico-beach-experience-c-bano": {
+      "latitude": 9.6921668,
+      "longitude": -85.1022314,
+      "needs_review": true
+    },
+    "los-altos-resort-manuel-antonio": {
+      "latitude": 9.4051849,
+      "longitude": -84.1577879,
+      "needs_review": true
+    },
+    "nayara-tented-camp-la-fortuna": {
+      "latitude": 10.4716839,
+      "longitude": -84.644436,
+      "needs_review": true
+    },
+    "nekajui-peninsula-papagayo-a-ritz-carlton-reserve-nacascolo": {
+      "latitude": 10.699227,
+      "longitude": -85.5945377,
+      "needs_review": true
+    },
+    "grand-hotel-brioni-pula-a-radisson-collection-hotel-pula": {
+      "latitude": 44.8702281,
+      "longitude": 13.8455311,
+      "needs_review": true
+    },
+    "kempinski-hotel-adriatic-savudrija": {
+      "latitude": 45.5007791,
+      "longitude": 13.5044472,
+      "needs_review": true
+    },
+    "maslina-resort-stari-grad": {
+      "latitude": 43.180197,
+      "longitude": 16.5711235,
+      "needs_review": true
+    },
+    "radisson-blu-resort-spa-split-split": {
+      "latitude": 43.5116383,
+      "longitude": 16.4399659,
+      "needs_review": true
+    },
+    "parklane-a-luxury-collection-resort-spa-limassol-limassol": {
+      "latitude": 34.6852901,
+      "longitude": 33.0332657,
+      "needs_review": true
+    },
+    "andaz-prague-prague": {
+      "latitude": 50.0855141,
+      "longitude": 14.4305204,
+      "needs_review": true
+    },
+    "augustine-a-luxury-collection-hotel-prague-prague": {
+      "latitude": 50.0874654,
+      "longitude": 14.4212535,
+      "needs_review": true
+    },
+    "nh-collection-copenhagen-copenhagen": {
+      "latitude": 55.6737765,
+      "longitude": 12.5879998,
+      "needs_review": true
+    },
+    "nobis-hotel-copenhagen-a-member-of-design-hotels-copenhagen": {
+      "latitude": 55.6867243,
+      "longitude": 12.5700724,
+      "needs_review": true
+    },
+    "intercontinental-dominica-cabrits-resort-spa-portsmouth": {
+      "latitude": 15.575915,
+      "longitude": -61.455588,
+      "needs_review": true
+    },
+    "eden-roc-cap-cana-cap-cana": {
+      "latitude": 18.5044392,
+      "longitude": -68.3830103,
+      "needs_review": true
+    },
+    "kimpton-las-mercedes-by-ihg-santo-domingo": {
+      "latitude": 18.4713858,
+      "longitude": -69.8918436,
+      "needs_review": true
+    },
+    "paradisus-palma-real-golf-spa-resort-all-inclusive-punta-cana": {
+      "latitude": 18.556551,
+      "longitude": -68.3691611,
+      "needs_review": true
+    },
+    "the-st-regis-cap-cana-resort-punta-cana": {
+      "latitude": 18.556551,
+      "longitude": -68.3691611,
+      "needs_review": true
+    },
+    "tortuga-bay-puntacana-resort-club-punta-cana": {
+      "latitude": 18.556551,
+      "longitude": -68.3691611,
+      "needs_review": true
+    },
+    "four-seasons-hotel-alexandria-at-san-stefano-alexandria": {
+      "latitude": 31.1991806,
+      "longitude": 29.8951716,
+      "needs_review": true
+    },
+    "four-seasons-hotel-cairo-at-the-first-residence-cairo": {
+      "latitude": 30.0443879,
+      "longitude": 31.2357257,
+      "needs_review": true
+    },
+    "coquillade-provence-gargas": {
+      "latitude": 43.8798269,
+      "longitude": 5.3171184,
+      "needs_review": true
+    },
+    "domaine-de-primard-guainville": {
+      "latitude": 48.911022,
+      "longitude": 1.4605139,
+      "needs_review": true
+    },
+    "five-seas-by-inwood-hotels-cannes": {
+      "latitude": 43.5515198,
+      "longitude": 7.0134418,
+      "needs_review": true
+    },
+    "fleur-de-loire-blois": {
+      "latitude": 47.582448,
+      "longitude": 1.3381684,
+      "needs_review": true
+    },
+    "hotel-barriere-le-fouquets-paris-paris": {
+      "latitude": 48.8534951,
+      "longitude": 2.3483915,
+      "needs_review": true
+    },
+    "hotel-barriere-le-majestic-cannes-cannes": {
+      "latitude": 43.5511063,
+      "longitude": 7.0204108,
+      "needs_review": true
+    },
+    "hotel-martinez-cannes": {
+      "latitude": 43.5482538,
+      "longitude": 7.0309481,
+      "needs_review": true
+    },
+    "intercontinental-bordeaux-le-grand-hotel-bordeaux": {
+      "latitude": 44.841225,
+      "longitude": -0.5800364,
+      "needs_review": true
+    },
+    "intercontinental-chantilly-chateau-mont-royal-by-ihg-la-chapelle-en-serval": {
+      "latitude": 49.122,
+      "longitude": 2.52775,
+      "needs_review": true
+    },
+    "intercontinental-lyon-hotel-dieu-lyon": {
+      "latitude": 45.7588583,
+      "longitude": 4.8369033,
+      "needs_review": true
+    },
+    "intercontinental-marseille-hotel-dieu-by-ihg-marseille": {
+      "latitude": 43.2961743,
+      "longitude": 5.3699525,
+      "needs_review": true
+    },
+    "j-k-place-paris-paris": {
+      "latitude": 48.8534951,
+      "longitude": 2.3483915,
+      "needs_review": true
+    },
+    "jw-marriott-cannes-cannes": {
+      "latitude": 43.5500358,
+      "longitude": 7.0253329,
+      "needs_review": true
+    },
+    "kimpton-st-honore-paris-by-ihg-paris": {
+      "latitude": 48.8534951,
+      "longitude": 2.3483915,
+      "needs_review": true
+    },
+    "la-fantaisie-paris": {
+      "latitude": 48.8754102,
+      "longitude": 2.3435351,
+      "needs_review": true
+    },
+    "la-mirande-avignon": {
+      "latitude": 43.9500891,
+      "longitude": 4.8077073,
+      "needs_review": true
+    },
+    "le-royal-monceau-raffles-paris-paris": {
+      "latitude": 48.8534951,
+      "longitude": 2.3483915,
+      "needs_review": true
+    },
+    "lutetia-hotel-paris": {
+      "latitude": 48.8510985,
+      "longitude": 2.3274844,
+      "needs_review": true
+    },
+    "maison-delano-paris-paris": {
+      "latitude": 48.8728898,
+      "longitude": 2.3098353,
+      "needs_review": true
+    },
+    "mondrian-bordeaux-les-carmes-bordeaux": {
+      "latitude": 44.841225,
+      "longitude": -0.5800364,
+      "needs_review": true
+    },
+    "mondrian-cannes-cannes": {
+      "latitude": 43.5515198,
+      "longitude": 7.0134418,
+      "needs_review": true
+    },
+    "pavillon-faubourg-saint-germain-paris": {
+      "latitude": 48.8564411,
+      "longitude": 2.3303149,
+      "needs_review": true
+    },
+    "relais-christine-paris": {
+      "latitude": 48.8543752,
+      "longitude": 2.3400731,
+      "needs_review": true
+    },
+    "saint-james-paris-paris": {
+      "latitude": 48.8712432,
+      "longitude": 2.325106,
+      "needs_review": true
+    },
+    "so-paris-paris": {
+      "latitude": 48.8499825,
+      "longitude": 2.3624418,
+      "needs_review": true
+    },
+    "sofitel-paris-baltimore-tour-eiffel-hotel-paris": {
+      "latitude": 48.8534951,
+      "longitude": 2.3483915,
+      "needs_review": true
+    },
+    "sofitel-paris-le-faubourg-paris": {
+      "latitude": 48.8751982,
+      "longitude": 2.3013742,
+      "needs_review": true
+    },
+    "the-maybourne-riviera-maybourne-roquebrune-cap-martin": {
+      "latitude": 43.7641047,
+      "longitude": 7.4565697,
+      "needs_review": true
+    },
+    "villa-gallici-h-tel-spa-aix-en-provence": {
+      "latitude": 43.5298424,
+      "longitude": 5.4474738,
+      "needs_review": true
+    },
+    "intercontinental-bora-bora-resort-and-thalasso-spa-by-ihg-bora-bora": {
+      "latitude": -16.5043467,
+      "longitude": -151.7366886,
+      "needs_review": true
+    },
+    "le-bora-bora-bp-169": {
+      "latitude": -16.475033,
+      "longitude": -151.7725463,
+      "needs_review": true
+    },
+    "le-taha-a-tapuamu": {
+      "latitude": -16.6092699,
+      "longitude": -151.536559,
+      "needs_review": true
+    },
+    "sofitel-kia-ora-moorea-beach-resort-moorea-maiao": {
+      "latitude": -17.533306,
+      "longitude": -149.8386006,
+      "needs_review": true
+    },
+    "brenners-park-hotel-spa-oetker-hotels-baden-baden": {
+      "latitude": 48.7610716,
+      "longitude": 8.239959,
+      "needs_review": true
+    },
+    "fairmont-hotel-vier-jahreszeiten-hamburg-hamburg": {
+      "latitude": 53.550341,
+      "longitude": 10.000654,
+      "needs_review": true
+    },
+    "kimpton-main-frankfurt-by-ihg-frankfurt": {
+      "latitude": 50.1106444,
+      "longitude": 8.6820917,
+      "needs_review": true
+    },
+    "rocco-forte-the-charles-hotel-munich": {
+      "latitude": 48.1371079,
+      "longitude": 11.5753822,
+      "needs_review": true
+    },
+    "so-berlin-das-stue-berlin": {
+      "latitude": 52.5098733,
+      "longitude": 13.3459642,
+      "needs_review": true
+    },
+    "sofitel-frankfurt-opera-frankfurt-am-main": {
+      "latitude": 50.116053,
+      "longitude": 8.6734577,
+      "needs_review": true
+    },
+    "sofitel-munich-bayerpost-munich": {
+      "latitude": 48.1395141,
+      "longitude": 11.5567932,
+      "needs_review": true
+    },
+    "academias-hotel-autograph-collection-athens": {
+      "latitude": 37.9755648,
+      "longitude": 23.7348324,
+      "needs_review": true
+    },
+    "amirandes-grecotel-boutique-resort-heraklion": {
+      "latitude": 35.33908,
+      "longitude": 25.1332843,
+      "needs_review": true
+    },
+    "andronis-minois-paros-island": {
+      "latitude": 37.0651495,
+      "longitude": 25.1919784,
+      "needs_review": true
+    },
+    "athenaeum-intercontinental-by-ihg-athens": {
+      "latitude": 37.9755648,
+      "longitude": 23.7348324,
+      "needs_review": true
+    },
+    "athens-capital-center-hotel-athens": {
+      "latitude": 37.9755648,
+      "longitude": 23.7348324,
+      "needs_review": true
+    },
+    "canaves-epitome-small-luxury-hotels-of-the-world-santorini": {
+      "latitude": 36.4071112,
+      "longitude": 25.4566637,
+      "needs_review": true
+    },
+    "caramel-grecotel-boutique-resort-rethymno": {
+      "latitude": 35.3676472,
+      "longitude": 24.4736079,
+      "needs_review": true
+    },
+    "cosme-a-luxury-collection-resort-paros-paros": {
+      "latitude": 37.0651495,
+      "longitude": 25.1919784,
+      "needs_review": true
+    },
+    "deos-mykonos-mykonos": {
+      "latitude": 37.4513936,
+      "longitude": 25.3923149,
+      "needs_review": true
+    },
+    "elounda-mare-hotel-aghios-nikolaos": {
+      "latitude": 38.0069885,
+      "longitude": 23.7277049,
+      "needs_review": true
+    },
+    "intercontinental-crete-by-ihg-agios-nikolaos": {
+      "latitude": 35.1905899,
+      "longitude": 25.7175216,
+      "needs_review": true
+    },
+    "katikies-garden-santorini-fira": {
+      "latitude": 36.4149227,
+      "longitude": 25.4324527,
+      "needs_review": true
+    },
+    "kouros-hotel-suites-mykonos": {
+      "latitude": 37.4513936,
+      "longitude": 25.3923149,
+      "needs_review": true
+    },
+    "magma-resort-santorini-part-of-the-unbound-collection-by-hyatt-santorini": {
+      "latitude": 36.4071112,
+      "longitude": 25.4566637,
+      "needs_review": true
+    },
+    "minos-beach-art-hotel-agios-nikolaos": {
+      "needs_review": true
+    },
+    "myconian-ambassador-hotel-relais-chateaux-mykonos": {
+      "latitude": 37.4513936,
+      "longitude": 25.3923149,
+      "needs_review": true
+    },
+    "myconian-villa-collection-mykonos": {
+      "latitude": 37.4513936,
+      "longitude": 25.3923149,
+      "needs_review": true
+    },
+    "mykonos-blu-boutique-resort-mykonos": {
+      "latitude": 37.4513936,
+      "longitude": 25.3923149,
+      "needs_review": true
+    },
+    "new-hotel-athens": {
+      "latitude": 37.9733942,
+      "longitude": 23.733509,
+      "needs_review": true
+    },
+    "nobu-hotel-santorini-santorini": {
+      "latitude": 36.4071112,
+      "longitude": 25.4566637,
+      "needs_review": true
+    },
+    "no-s-santorini-santorini": {
+      "latitude": 36.4022578,
+      "longitude": 25.4513197,
+      "needs_review": true
+    },
+    "one-only-aesthesis-glyfada": {
+      "latitude": 37.8615966,
+      "longitude": 23.7545902,
+      "needs_review": true
+    },
+    "one-only-k-a-island-kea": {
+      "latitude": 37.6093554,
+      "longitude": 24.2697154,
+      "needs_review": true
+    },
+    "parilio-a-member-of-design-hotels-paros": {
+      "latitude": 37.0651495,
+      "longitude": 25.1919784,
+      "needs_review": true
+    },
+    "santo-pure-oia-suites-villas-oia": {
+      "latitude": 36.4622122,
+      "longitude": 25.3757257,
+      "needs_review": true
+    },
+    "raffles-jaipur-jaipur": {
+      "latitude": 26.9154576,
+      "longitude": 75.8189817,
+      "needs_review": true
+    },
+    "raffles-udaipur-udaipur": {
+      "latitude": 24.5731376,
+      "longitude": 73.8109847,
+      "needs_review": true
+    },
+    "six-senses-fort-barwara-chauth-ka-barwara": {
+      "latitude": 26.0507608,
+      "longitude": 76.149274,
+      "needs_review": true
+    },
+    "six-senses-vana-a-wellness-retreat-dehradun": {
+      "latitude": 30.3255646,
+      "longitude": 78.0436813,
+      "needs_review": true
+    },
+    "the-leela-palace-new-delhi-new-delhi": {
+      "latitude": 28.6419258,
+      "longitude": 77.2217499,
+      "needs_review": true
+    },
+    "the-oberoi-rajvilas-jaipur-jaipur": {
+      "latitude": 26.8763394,
+      "longitude": 75.8838128,
+      "needs_review": true
+    },
+    "the-oberoi-udaivilas-udaipur": {
+      "latitude": 24.5771831,
+      "longitude": 73.6725331,
+      "needs_review": true
+    },
+    "the-ritz-carlton-bangalore-bangalore": {
+      "latitude": 12.9676867,
+      "longitude": 77.601641,
+      "needs_review": true
+    },
+    "andaz-bali-denpasar": {
+      "latitude": -8.6524973,
+      "longitude": 115.2191175,
+      "needs_review": true
+    },
+    "bulgari-resort-bali-uluwatu-bali": {
+      "latitude": -8.8438452,
+      "longitude": 115.1206599,
+      "needs_review": true
+    },
+    "como-shambhala-estate-gianyar-city": {
+      "latitude": -6.3312459,
+      "longitude": 106.7175728,
+      "needs_review": true
+    },
+    "como-uma-canggu-canggu": {
+      "latitude": -8.6552742,
+      "longitude": 115.1266639,
+      "needs_review": true
+    },
+    "four-seasons-hotel-jakarta-jakarta": {
+      "latitude": -6.2326597,
+      "longitude": 106.8194973,
+      "needs_review": true
+    },
+    "jumeirah-bali-bali": {
+      "latitude": -8.7977382,
+      "longitude": 115.1199152,
+      "needs_review": true
+    },
+    "nihi-sumba-east-nusa-tenggara": {
+      "latitude": -9.7779626,
+      "longitude": 119.3762823,
+      "needs_review": true
+    },
+    "raffles-bali-jimbaran": {
+      "latitude": -8.7724902,
+      "longitude": 115.1723944,
+      "needs_review": true
+    },
+    "regent-bali-canggu-canggu": {
+      "latitude": -8.6557882,
+      "longitude": 115.1294053,
+      "needs_review": true
+    },
+    "soori-bali-bali": {
+      "latitude": -8.2271303,
+      "longitude": 115.1919203,
+      "needs_review": true
+    },
+    "the-langham-jakarta-jakarta": {
+      "latitude": -6.2273569,
+      "longitude": 106.8064353,
+      "needs_review": true
+    },
+    "anantara-the-marker-hotel-dublin-hotel-dublin": {
+      "latitude": 53.3493795,
+      "longitude": -6.2605593,
+      "needs_review": true
+    },
+    "carton-house-a-fairmont-managed-hotel-maynooth": {
+      "latitude": 53.3830239,
+      "longitude": -6.5922806,
+      "needs_review": true
+    },
+    "dylan-hotel-dublin": {
+      "latitude": 53.3337649,
+      "longitude": -6.242116,
+      "needs_review": true
+    },
+    "glenlo-abbey-hotel-galway": {
+      "latitude": 53.3000278,
+      "longitude": -9.0986868,
+      "needs_review": true
+    },
+    "park-hotel-kenmare-kenmare": {
+      "latitude": 51.8778167,
+      "longitude": -9.5804801,
+      "needs_review": true
+    },
+    "the-fitzwilliam-hotel-dublin": {
+      "latitude": 53.3493795,
+      "longitude": -6.2605593,
+      "needs_review": true
+    },
+    "the-lodge-at-ashford-castle-cong": {
+      "latitude": 53.5349454,
+      "longitude": -9.2745241,
+      "needs_review": true
+    },
+    "the-shelbourne-autograph-collection-dublin": {
+      "latitude": 53.3493795,
+      "longitude": -6.2605593,
+      "needs_review": true
+    },
+    "the-westbury-dublin-dublin": {
+      "latitude": 53.3414585,
+      "longitude": -6.2612999,
+      "needs_review": true
+    },
+    "intercontinental-david-tel-aviv-by-ihg-tel-aviv": {
+      "latitude": 32.0852997,
+      "longitude": 34.7818064,
+      "needs_review": true
+    },
+    "mamilla-hotel-jerusalem": {
+      "latitude": 31.7788472,
+      "longitude": 35.2257856,
+      "needs_review": true
+    },
+    "the-david-citadel-jerusalem-jerusalem": {
+      "latitude": 31.7788472,
+      "longitude": 35.2257856,
+      "needs_review": true
+    },
+    "the-jaffa-a-luxury-collection-hotel-tel-aviv-tel-aviv-jaffa": {
+      "latitude": 32.0852997,
+      "longitude": 34.7818064,
+      "needs_review": true
+    },
+    "7pines-resort-sardinia-baja-sardinia": {
+      "latitude": 41.128051,
+      "longitude": 9.4736181,
+      "needs_review": true
+    },
+    "anantara-grand-hotel-convento-di-amalfi-grand-hotel-amalfi": {
+      "latitude": 40.63367,
+      "longitude": 14.6026095,
+      "needs_review": true
+    },
+    "baglioni-hotel-luna-venice": {
+      "latitude": 45.4329343,
+      "longitude": 12.3372705,
+      "needs_review": true
+    },
+    "baglioni-hotel-regina-roma": {
+      "latitude": 41.9070891,
+      "longitude": 12.4898106,
+      "needs_review": true
+    },
+    "borgo-egnazia-fasano": {
+      "latitude": 40.8744589,
+      "longitude": 17.3961582,
+      "needs_review": true
+    },
+    "ca-di-dio-venice": {
+      "latitude": 45.4337184,
+      "longitude": 12.3486772,
+      "needs_review": true
+    },
+    "cala-di-volpe-a-luxury-collection-hotel-costa-smeralda-arzachena": {
+      "latitude": 41.0808915,
+      "longitude": 9.4279079,
+      "needs_review": true
+    },
+    "casa-angelina-praiano": {
+      "latitude": 40.6144553,
+      "longitude": 14.5218021,
+      "needs_review": true
+    },
+    "casa-cipriani-milano-milan": {
+      "latitude": 45.4719431,
+      "longitude": 9.2019241,
+      "needs_review": true
+    },
+    "casa-di-langa-cerretto-langhe": {
+      "latitude": 44.574839,
+      "longitude": 8.09794,
+      "needs_review": true
+    },
+    "castelfalfi-montaione": {
+      "latitude": 43.5474404,
+      "longitude": 10.857272,
+      "needs_review": true
+    },
+    "castello-banfi-il-borgo-montalcino": {
+      "latitude": 43.0575578,
+      "longitude": 11.4902818,
+      "needs_review": true
+    },
+    "castello-di-casole-a-belmond-hotel-tuscany-siena": {
+      "latitude": 43.167206,
+      "longitude": 11.467561,
+      "needs_review": true
+    },
+    "como-castello-del-nero-barberino-tavarnelle-florence": {
+      "latitude": 43.5455622,
+      "longitude": 11.2046811,
+      "needs_review": true
+    },
+    "gardena-gr-dnerhof-hotel-spa-castelrotto": {
+      "latitude": 46.5475389,
+      "longitude": 11.6084644,
+      "needs_review": true
+    },
+    "grand-hotel-et-de-milan-milan": {
+      "latitude": 45.4699226,
+      "longitude": 9.1924982,
+      "needs_review": true
+    },
+    "grand-hotel-excelsior-vittoria-sorrento": {
+      "latitude": 40.6283367,
+      "longitude": 14.3757655,
+      "needs_review": true
+    },
+    "grand-hotel-savoia-by-radisson-collection-cortina-d-ampezzo": {
+      "latitude": 46.5383332,
+      "longitude": 12.1373506,
+      "needs_review": true
+    },
+    "grand-hotel-timeo-a-belmond-hotel-taormina-taormina": {
+      "latitude": 37.8512218,
+      "longitude": 15.2830191,
+      "needs_review": true
+    },
+    "grand-hotel-victoria-concept-spa-by-r-collection-hotels-menaggio": {
+      "latitude": 46.0197842,
+      "longitude": 9.2389513,
+      "needs_review": true
+    },
+    "helvetia-bristol-firenze": {
+      "latitude": 43.7717275,
+      "longitude": 11.2522361,
+      "needs_review": true
+    },
+    "hotel-le-fontanelle-castelnuovo-berardenga-si": {
+      "latitude": 43.3853227,
+      "longitude": 11.4000836,
+      "needs_review": true
+    },
+    "hotel-lungarno-florence": {
+      "latitude": 43.7679262,
+      "longitude": 11.2515789,
+      "needs_review": true
+    },
+    "hotel-maalot-roma-rome": {
+      "latitude": 41.8933203,
+      "longitude": 12.4829321,
+      "needs_review": true
+    },
+    "hotel-principe-di-savoia-milan": {
+      "latitude": 45.4797878,
+      "longitude": 9.1963935,
+      "needs_review": true
+    },
+    "hotel-regency-florence-firenze": {
+      "latitude": 43.7753933,
+      "longitude": 11.2680892,
+      "needs_review": true
+    },
+    "hotel-splendide-royal-rome": {
+      "latitude": 41.9078886,
+      "longitude": 12.4867923,
+      "needs_review": true
+    },
+    "hotel-terme-di-saturnia-natural-spa-golf-resort-saturnia-gr": {
+      "latitude": 42.6652237,
+      "longitude": 11.5049888,
+      "needs_review": true
+    },
+    "me-milan-il-duca-milano": {
+      "latitude": 45.4641943,
+      "longitude": 9.1896346,
+      "needs_review": true
+    },
+    "palazzo-ripetta-rome": {
+      "latitude": 41.9084341,
+      "longitude": 12.4759275,
+      "needs_review": true
+    },
+    "passalacqua-moltrasio": {
+      "latitude": 45.8605067,
+      "longitude": 9.0991812,
+      "needs_review": true
+    },
+    "pieve-aldina-radda-in-chianti": {
+      "latitude": 43.4870518,
+      "longitude": 11.3747003,
+      "needs_review": true
+    },
+    "portrait-firenze-florence": {
+      "latitude": 43.7688217,
+      "longitude": 11.2528604,
+      "needs_review": true
+    },
+    "portrait-milano-milan": {
+      "latitude": 45.4681456,
+      "longitude": 9.1978612,
+      "needs_review": true
+    },
+    "portrait-roma-roma": {
+      "latitude": 41.8933203,
+      "longitude": 12.4829321,
+      "needs_review": true
+    },
+    "radisson-collection-hotel-palazzo-touring-club-milan-milan": {
+      "latitude": 45.4641943,
+      "longitude": 9.1896346,
+      "needs_review": true
+    },
+    "radisson-collection-palazzo-nani-venice-venice": {
+      "latitude": 45.4371908,
+      "longitude": 12.3345898,
+      "needs_review": true
+    },
+    "rocco-forte-hotel-de-la-ville-rome": {
+      "latitude": 41.8933203,
+      "longitude": 12.4829321,
+      "needs_review": true
+    },
+    "rocco-forte-hotel-savoy-florence": {
+      "latitude": 43.7697955,
+      "longitude": 11.2556404,
+      "needs_review": true
+    },
+    "rocco-forte-masseria-torre-maizza-fasano": {
+      "latitude": 40.834432,
+      "longitude": 17.358399,
+      "needs_review": true
+    },
+    "rocco-forte-private-villas-sciacca": {
+      "latitude": 37.5064786,
+      "longitude": 13.0823323,
+      "needs_review": true
+    },
+    "rocco-forte-villa-igiea-palermo": {
+      "latitude": 38.1112268,
+      "longitude": 13.3524434,
+      "needs_review": true
+    },
+    "romazzino-a-belmond-hotel-costa-smeralda-arzachena": {
+      "latitude": 41.0808915,
+      "longitude": 9.4279079,
+      "needs_review": true
+    },
+    "san-clemente-palace-kempinski-venice-venice": {
+      "latitude": 45.4371908,
+      "longitude": 12.3345898,
+      "needs_review": true
+    },
+    "san-domenico-palace-taormina-a-four-seasons-hotel-taormina": {
+      "latitude": 37.8512218,
+      "longitude": 15.2830191,
+      "needs_review": true
+    },
+    "sina-villa-medici-autograph-collection-florence": {
+      "latitude": 43.7697955,
+      "longitude": 11.2556404,
+      "needs_review": true
+    },
+    "sofitel-roma-villa-borghese-roma": {
+      "latitude": 41.907616,
+      "longitude": 12.4866822,
+      "needs_review": true
+    },
+    "splendido-mare-a-belmond-hotel-portofino-portofino": {
+      "latitude": 44.3036653,
+      "longitude": 9.2093446,
+      "needs_review": true
+    },
+    "straf-milan-a-member-of-design-hotels-milan": {
+      "latitude": 45.4641943,
+      "longitude": 9.1896346,
+      "needs_review": true
+    },
+    "the-ashbee-hotel-taormina": {
+      "latitude": 37.8558838,
+      "longitude": 15.2902829,
+      "needs_review": true
+    },
+    "the-place-firenze-florence": {
+      "latitude": 43.7697955,
+      "longitude": 11.2556404,
+      "needs_review": true
+    },
+    "the-rome-edition-roma": {
+      "latitude": 41.8933203,
+      "longitude": 12.4829321,
+      "needs_review": true
+    },
+    "verdura-resort-sciacca": {
+      "latitude": 37.4742229,
+      "longitude": 13.1964316,
+      "needs_review": true
+    },
+    "villa-agrippina-a-gran-melia-hotel-rome": {
+      "latitude": 41.8933203,
+      "longitude": 12.4829321,
+      "needs_review": true
+    },
+    "villa-cora-florence": {
+      "latitude": 43.7572681,
+      "longitude": 11.2475424,
+      "needs_review": true
+    },
+    "villa-la-massa-bagno-a-ripoli": {
+      "latitude": 43.7650549,
+      "longitude": 11.3336919,
+      "needs_review": true
+    },
+    "villa-marina-capri-hotel-spa-capri": {
+      "latitude": 40.5488429,
+      "longitude": 14.2283708,
+      "needs_review": true
+    },
+    "villa-san-michele-fiesole": {
+      "latitude": 43.8027683,
+      "longitude": 11.2984793,
+      "needs_review": true
+    },
+    "villa-sant-andrea-a-belmond-hotel-taromina-mare-taormina": {
+      "latitude": 37.8512218,
+      "longitude": 15.2830191,
+      "needs_review": true
+    },
+    "vista-palazzo-lago-di-como-como": {
+      "latitude": 45.9394759,
+      "longitude": 9.1494101,
+      "needs_review": true
+    },
+    "vista-palazzo-verona-verona": {
+      "latitude": 45.4407559,
+      "longitude": 11.0000095,
+      "needs_review": true
+    },
+    "w-rome-rome": {
+      "latitude": 41.9064137,
+      "longitude": 12.488639,
+      "needs_review": true
+    },
+    "half-moon-jamaica-montego-bay": {
+      "latitude": 18.4724603,
+      "longitude": -77.9217357,
+      "needs_review": true
+    },
+    "s-hotel-montego-bay-montego-bay": {
+      "latitude": 18.487501,
+      "longitude": -77.9285806,
+      "needs_review": true
+    },
+    "ace-hotel-kyoto-kyoto": {
+      "latitude": 35.009633,
+      "longitude": 135.7604641,
+      "needs_review": true
+    },
+    "bellustar-tokyo-a-pan-pacific-hotel-tokyo": {
+      "latitude": 35.6768601,
+      "longitude": 139.7638947,
+      "needs_review": true
+    },
+    "four-seasons-hotel-osaka-osaka": {
+      "latitude": 34.6958988,
+      "longitude": 135.4935802,
+      "needs_review": true
+    },
+    "four-seasons-hotel-tokyo-at-marunouchi-tokyo": {
+      "latitude": 35.6768601,
+      "longitude": 139.7638947,
+      "needs_review": true
+    },
+    "intercontinental-osaka-by-ihg-osaka": {
+      "latitude": 34.6198813,
+      "longitude": 135.490357,
+      "needs_review": true
+    },
+    "iraph-sui-a-luxury-collection-hotel-miyako-okinawa-miyakojima": {
+      "latitude": 24.8054647,
+      "longitude": 125.2811296,
+      "needs_review": true
+    },
+    "kimpton-shinjuku-tokyo-by-ihg-tokyo": {
+      "latitude": 35.6768601,
+      "longitude": 139.7638947,
+      "needs_review": true
+    },
+    "park-hyatt-niseko-hanazono-hokkaido": {
+      "latitude": 43.4603175,
+      "longitude": 143.3307158,
+      "needs_review": true
+    },
+    "shangri-la-tokyo-tokyo": {
+      "latitude": 35.6822284,
+      "longitude": 139.7691983,
+      "needs_review": true
+    },
+    "six-senses-kyoto-kyoto": {
+      "latitude": 34.9910437,
+      "longitude": 135.7739992,
+      "needs_review": true
+    },
+    "sowaka-kyoto": {
+      "latitude": 35.0115754,
+      "longitude": 135.7681441,
+      "needs_review": true
+    },
+    "suiran-a-luxury-collection-hotel-kyoto-kyoto": {
+      "latitude": 35.0115754,
+      "longitude": 135.7681441,
+      "needs_review": true
+    },
+    "the-okura-tokyo-tokyo": {
+      "latitude": 35.6669949,
+      "longitude": 139.7439875,
+      "needs_review": true
+    },
+    "the-prince-gallery-tokyo-kioicho-a-luxury-collection-hotel-tokyo": {
+      "latitude": 35.6768601,
+      "longitude": 139.7638947,
+      "needs_review": true
+    },
+    "the-ritz-carlton-nikko-nikko": {
+      "latitude": 36.738425,
+      "longitude": 139.4977208,
+      "needs_review": true
+    },
+    "the-ritz-carlton-osaka-osaka": {
+      "latitude": 34.6983885,
+      "longitude": 135.4925555,
+      "needs_review": true
+    },
+    "the-strings-by-intercontinental-tokyo-by-ihg-tokyo": {
+      "latitude": 35.6768601,
+      "longitude": 139.7638947,
+      "needs_review": true
+    },
+    "the-tokyo-edition-toranomon-tokyo": {
+      "latitude": 35.6647099,
+      "longitude": 139.7454448,
+      "needs_review": true
+    },
+    "w-osaka-osaka": {
+      "latitude": 34.677846,
+      "longitude": 135.4998811,
+      "needs_review": true
+    },
+    "the-grand-suites-at-four-seasons-taipa": {
+      "latitude": 22.1527264,
+      "longitude": 113.5583941,
+      "needs_review": true
+    },
+    "como-cocoa-island-south-male-atoll": {
+      "latitude": 3.9690661,
+      "longitude": 73.4311274,
+      "needs_review": true
+    },
+    "four-seasons-resort-maldives-at-kuda-huraa-republic-of-maldives": {
+      "latitude": 3.7203503,
+      "longitude": 73.2244152,
+      "needs_review": true
+    },
+    "four-seasons-resort-maldives-at-landaa-giraavaru-baa-atoll": {
+      "latitude": 5.0116647,
+      "longitude": 72.951753,
+      "needs_review": true
+    },
+    "intercontinental-maldives-maamunagau-resort-by-ihg-maamunagau-island": {
+      "needs_review": true
+    },
+    "joali-maldives-male": {
+      "latitude": 4.1779879,
+      "longitude": 73.5107387,
+      "needs_review": true
+    },
+    "lux-south-ari-atoll-south-ari-atoll": {
+      "latitude": 3.4983785,
+      "longitude": 72.8955757,
+      "needs_review": true
+    },
+    "naladhu-private-island-maldives-resort-male": {
+      "latitude": 4.1779879,
+      "longitude": 73.5107387,
+      "needs_review": true
+    },
+    "one-only-reethi-rah-reethi-rah": {
+      "latitude": 4.5145134,
+      "longitude": 73.3702993,
+      "needs_review": true
+    },
+    "six-senses-kanuhura-kanuhura": {
+      "latitude": 5.532502,
+      "longitude": 73.5065318,
+      "needs_review": true
+    },
+    "six-senses-laamu-olhuveli": {
+      "latitude": 1.8169802,
+      "longitude": 73.4050344,
+      "needs_review": true
+    },
+    "soneva-fushi-eydhafushi": {
+      "latitude": 5.1125881,
+      "longitude": 73.0771412,
+      "needs_review": true
+    },
+    "taj-exotica-resort-spa-south-male-atoll": {
+      "latitude": 3.9690661,
+      "longitude": 73.4311274,
+      "needs_review": true
+    },
+    "iniala-harbour-house-valletta": {
+      "latitude": 35.896245,
+      "longitude": 14.5141316,
+      "needs_review": true
+    },
+    "four-seasons-resort-mauritius-at-anahita-beau-champ": {
+      "latitude": -20.2843773,
+      "longitude": 57.790892,
+      "needs_review": true
+    },
+    "lux-grand-baie-grand-baie": {
+      "latitude": -20.0002131,
+      "longitude": 57.5833552,
+      "needs_review": true
+    },
+    "alila-mayakoba-playa-del-carmen": {
+      "latitude": 20.6461095,
+      "longitude": -87.0809021,
+      "needs_review": true
+    },
+    "banyan-tree-puebla-puebla": {
+      "latitude": 18.833333,
+      "longitude": -98,
+      "needs_review": true
+    },
+    "four-seasons-resort-tamarindo-la-manzanilla": {
+      "latitude": 19.2559111,
+      "longitude": -104.8055278,
+      "needs_review": true
+    },
+    "grand-velas-boutique-los-cabos-san-jos-del-cabo": {
+      "latitude": 23.0598364,
+      "longitude": -109.7025148,
+      "needs_review": true
+    },
+    "grand-velas-los-cabos-all-inclusive-cabo-san-lucas": {
+      "latitude": 22.8938884,
+      "longitude": -109.92006,
+      "needs_review": true
+    },
+    "grand-velas-riviera-nayarit-all-inclusive-nuevo-vallarta": {
+      "latitude": 20.7027575,
+      "longitude": -105.2885106,
+      "needs_review": true
+    },
+    "hotel-alexander-mexico-city": {
+      "latitude": 19.4326296,
+      "longitude": -99.1331785,
+      "needs_review": true
+    },
+    "hotel-esencia-solidaridad-playa-del-carmen": {
+      "latitude": 20.6682482,
+      "longitude": -87.0881584,
+      "needs_review": true
+    },
+    "hotel-san-cristobal-todos-santos": {
+      "latitude": 23.4154016,
+      "longitude": -110.2296498,
+      "needs_review": true
+    },
+    "impression-isla-mujeres-by-secrets-cancun": {
+      "latitude": 21.1527467,
+      "longitude": -86.8425761,
+      "needs_review": true
+    },
+    "impression-moxche-by-secrets-playa-del-carmen": {
+      "latitude": 20.6461095,
+      "longitude": -87.0809021,
+      "needs_review": true
+    },
+    "intercontinental-presidente-cozumel-resort-spa-cozumel": {
+      "latitude": 20.4320599,
+      "longitude": -86.9206906,
+      "needs_review": true
+    },
+    "intercontinental-presidente-monterrey-by-ihg-san-pedro-garza-garc-a": {
+      "latitude": 25.652395,
+      "longitude": -100.3726067,
+      "needs_review": true
+    },
+    "kempinski-hotel-cancun-cancun": {
+      "latitude": 21.0932323,
+      "longitude": -86.7682271,
+      "needs_review": true
+    },
+    "kimpton-mas-olas-resort-and-spa-el-pescadero": {
+      "latitude": 23.369259,
+      "longitude": -110.172503,
+      "needs_review": true
+    },
+    "kimpton-virgilio-hotel-mexico-city": {
+      "latitude": 19.4326296,
+      "longitude": -99.1331785,
+      "needs_review": true
+    },
+    "maroma-a-belmond-hotel-riviera-maya-playa-del-carmen": {
+      "needs_review": true
+    },
+    "mondrian-mexico-city-condesa-mexico-city": {
+      "latitude": 19.4326296,
+      "longitude": -99.1331785,
+      "needs_review": true
+    },
+    "naviva-a-four-seasons-resort-punta-mita-mexico-bahia-de-banderas": {
+      "latitude": 20.8279022,
+      "longitude": -105.3180766,
+      "needs_review": true
+    },
+    "nobu-hotel-los-cabos-cabo-san-lucas": {
+      "latitude": 22.8845297,
+      "longitude": -109.984812,
+      "needs_review": true
+    },
+    "one-only-mandarina-lo-de-marcos": {
+      "latitude": 20.9539253,
+      "longitude": -105.3541714,
+      "needs_review": true
+    },
+    "palma-a-the-house-of-a-a-all-inclusive-wellness-resort-playa-del-carmen": {
+      "latitude": 20.6461095,
+      "longitude": -87.0809021,
+      "needs_review": true
+    },
+    "paradisus-la-perla-playa-del-carmen": {
+      "latitude": 20.6471538,
+      "longitude": -87.0567122,
+      "needs_review": true
+    },
+    "paradisus-playa-del-carmen-playa-del-carmen": {
+      "latitude": 20.6471538,
+      "longitude": -87.0567122,
+      "needs_review": true
+    },
+    "park-hyatt-los-cabos-at-cabo-del-sol-cabo-del-sol": {
+      "latitude": 22.9147409,
+      "longitude": -109.8387981,
+      "needs_review": true
+    },
+    "unico-hotel-riviera-maya-adults-only-all-inclusive-kantenah": {
+      "latitude": 21.1463941,
+      "longitude": -86.8192577,
+      "needs_review": true
+    },
+    "viceroy-los-cabos-san-jose-del-cabo": {
+      "latitude": 23.0442493,
+      "longitude": -109.6980928,
+      "needs_review": true
+    },
+    "viceroy-riviera-maya-playa-del-carmen": {
+      "latitude": 20.6634792,
+      "longitude": -87.03203,
+      "needs_review": true
+    },
+    "w-punta-de-mita-punta-de-mita": {
+      "latitude": 20.7480589,
+      "longitude": -105.4317027,
+      "needs_review": true
+    },
+    "hotel-hermitage-monte-carlo-monaco": {
+      "latitude": 43.7384603,
+      "longitude": 7.4259576,
+      "needs_review": true
+    },
+    "one-only-portonovi-kumbor": {
+      "latitude": 42.4403576,
+      "longitude": 18.587667,
+      "needs_review": true
+    },
+    "the-chedi-lustica-bay-tivat": {
+      "latitude": 42.4303762,
+      "longitude": 18.6988104,
+      "needs_review": true
+    },
+    "four-seasons-hotel-rabat-at-kasr-al-bahr-rabat": {
+      "latitude": 34.0206634,
+      "longitude": -6.8545618,
+      "needs_review": true
+    },
+    "kasbah-tamadot-asni": {
+      "latitude": 31.2221191,
+      "longitude": -7.9711048,
+      "needs_review": true
+    },
+    "la-sultana-marrakech-marrakech": {
+      "latitude": 31.616934,
+      "longitude": -7.9886196,
+      "needs_review": true
+    },
+    "park-hyatt-marrakech-marrakech": {
+      "latitude": 31.5913083,
+      "longitude": -7.9362839,
+      "needs_review": true
+    },
+    "the-oberoi-marrakech-marrakech": {
+      "latitude": 31.6116181,
+      "longitude": -7.8963844,
+      "needs_review": true
+    },
+    "blanket-bay-glenorchy": {
+      "latitude": -44.8674906,
+      "longitude": 168.3917337,
+      "needs_review": true
+    },
+    "cordis-auckland-auckland": {
+      "latitude": -36.8574207,
+      "longitude": 174.7636272,
+      "needs_review": true
+    },
+    "intercontinental-auckland-auckland": {
+      "latitude": -36.8433494,
+      "longitude": 174.7665391,
+      "needs_review": true
+    },
+    "the-santa-maria-a-luxury-collection-hotel-golf-resort-panama-city-panam": {
+      "latitude": 8.843273,
+      "longitude": -79.7053673,
+      "needs_review": true
+    },
+    "palacio-nazarenas-a-belmond-hotel-cusco-cusco": {
+      "latitude": -13.5170887,
+      "longitude": -71.9785356,
+      "needs_review": true
+    },
+    "raffles-makati-makati": {
+      "latitude": 14.550632,
+      "longitude": 121.0231412,
+      "needs_review": true
+    },
+    "shangri-la-boracay-boracay-island": {
+      "latitude": 11.9693692,
+      "longitude": 121.9227339,
+      "needs_review": true
+    },
+    "shangri-la-the-fort-manila-taguig-city": {
+      "latitude": 14.5270538,
+      "longitude": 121.0744942,
+      "needs_review": true
+    },
+    "raffles-europejski-warsaw-warszawa": {
+      "latitude": 52.241927,
+      "longitude": 21.0150595,
+      "needs_review": true
+    },
+    "bela-vista-hotel-spa-praia-da-rocha": {
+      "latitude": 37.1155086,
+      "longitude": -8.5320834,
+      "needs_review": true
+    },
+    "convent-square-lisbon-vignette-collection-by-ihg-lisbon": {
+      "latitude": 38.7077507,
+      "longitude": -9.1365919,
+      "needs_review": true
+    },
+    "corinthia-lisbon-lisbon": {
+      "latitude": 38.7387646,
+      "longitude": -9.1664896,
+      "needs_review": true
+    },
+    "herdade-da-malhadinha-nova-albernoa-beja": {
+      "latitude": 37.8218804,
+      "longitude": -7.9787428,
+      "needs_review": true
+    },
+    "intercontinental-lisbon-by-ihg-lisbon": {
+      "latitude": 38.7077507,
+      "longitude": -9.1365919,
+      "needs_review": true
+    },
+    "intercontinental-porto-palacio-das-cardosas-porto": {
+      "latitude": 41.1458729,
+      "longitude": -8.6115563,
+      "needs_review": true
+    },
+    "kimpton-atl-ntico-algarve-by-ihg-albufeira": {
+      "latitude": 37.088241,
+      "longitude": -8.2526339,
+      "needs_review": true
+    },
+    "l-and-vineyards-montemor-o-novo": {
+      "latitude": 38.645534,
+      "longitude": -8.246897,
+      "needs_review": true
+    },
+    "octant-douro-castelo-de-paiva": {
+      "latitude": 41.0410042,
+      "longitude": -8.271775,
+      "needs_review": true
+    },
+    "octant-furnas-furnas": {
+      "latitude": 37.7709712,
+      "longitude": -25.3042392,
+      "needs_review": true
+    },
+    "octant-ponta-delgada-ponta-delgada": {
+      "latitude": 37.7418006,
+      "longitude": -25.6576027,
+      "needs_review": true
+    },
+    "condado-vanderbilt-hotel-san-juan": {
+      "latitude": 18.465299,
+      "longitude": -66.116666,
+      "needs_review": true
+    },
+    "residences-at-dorado-beach-a-ritz-carlton-reserve-dorado": {
+      "latitude": 18.4317317,
+      "longitude": -66.2796684,
+      "needs_review": true
+    },
+    "four-seasons-resort-and-residences-at-the-pearl-qatar-doha": {
+      "latitude": 25.2856329,
+      "longitude": 51.5264162,
+      "needs_review": true
+    },
+    "one-only-nyungwe-house-gisakura-nyamasheke": {
+      "latitude": -2.4473184,
+      "longitude": 29.1042638,
+      "needs_review": true
+    },
+    "the-st-regis-red-sea-resort-red-sea": {
+      "latitude": 22.4129914,
+      "longitude": 39.0753422,
+      "needs_review": true
+    },
+    "intercontinental-singapore-robertson-quay-by-ihg-singapore": {
+      "latitude": 1.357107,
+      "longitude": 103.8194992,
+      "needs_review": true
+    },
+    "jw-marriott-hotel-singapore-south-beach-singapore": {
+      "latitude": 1.2942958,
+      "longitude": 103.8560812,
+      "needs_review": true
+    },
+    "mondrian-singapore-duxton-singapore": {
+      "latitude": 1.2784849,
+      "longitude": 103.8420793,
+      "needs_review": true
+    },
+    "pan-pacific-orchard-singapore": {
+      "latitude": 1.3073446,
+      "longitude": 103.8298621,
+      "needs_review": true
+    },
+    "pan-pacific-singapore-singapore": {
+      "latitude": 1.3073446,
+      "longitude": 103.8298621,
+      "needs_review": true
+    },
+    "ellerman-house-cape-town": {
+      "latitude": -33.9288301,
+      "longitude": 18.4172197,
+      "needs_review": true
+    },
+    "four-seasons-hotel-the-westcliff-johannesburg-randburg": {
+      "latitude": -26.0915852,
+      "longitude": 28.0020276,
+      "needs_review": true
+    },
+    "mount-nelson-a-belmond-hotel-cape-town-cape-town": {
+      "latitude": -33.9288301,
+      "longitude": 18.4172197,
+      "needs_review": true
+    },
+    "the-twelve-apostles-hotel-and-spa-cape-town": {
+      "latitude": -33.9288301,
+      "longitude": 18.4172197,
+      "needs_review": true
+    },
+    "intercontinental-grand-seoul-parnas-gangnam-gu": {
+      "latitude": 37.5090726,
+      "longitude": 127.0607194,
+      "needs_review": true
+    },
+    "mondrian-seoul-itaewon-seoul": {
+      "latitude": 37.5285592,
+      "longitude": 126.9931256,
+      "needs_review": true
+    },
+    "the-shilla-seoul-seoul": {
+      "latitude": 37.5558605,
+      "longitude": 127.0051493,
+      "needs_review": true
+    },
+    "finca-serena-mallorca-montu-ri": {
+      "latitude": 39.5884696,
+      "longitude": 2.9469023,
+      "needs_review": true
+    },
+    "four-seasons-hotel-madrid-madrid": {
+      "latitude": 40.417272,
+      "longitude": -3.7003917,
+      "needs_review": true
+    },
+    "four-seasons-resort-mallorca-at-formentor-port-de-pollen-a": {
+      "latitude": 39.908013,
+      "longitude": 3.0827842,
+      "needs_review": true
+    },
+    "gran-hotel-ingles-madrid": {
+      "latitude": 40.4159415,
+      "longitude": -3.6998084,
+      "needs_review": true
+    },
+    "grand-hyatt-barcelona-barcelona": {
+      "latitude": 41.3860909,
+      "longitude": 2.1231601,
+      "needs_review": true
+    },
+    "hospes-las-casas-del-rey-de-baeza-a-member-of-design-hotels-seville": {
+      "latitude": 37.3886303,
+      "longitude": -5.9953403,
+      "needs_review": true
+    },
+    "hotel-arts-barcelona-barcelona": {
+      "latitude": 41.3868915,
+      "longitude": 2.1962221,
+      "needs_review": true
+    },
+    "hotel-colon-a-gran-melia-hotel-seville": {
+      "latitude": 37.3886303,
+      "longitude": -5.9953403,
+      "needs_review": true
+    },
+    "hotel-de-mar-a-gran-melia-hotel-calvia": {
+      "latitude": 39.5650931,
+      "longitude": 2.5046323,
+      "needs_review": true
+    },
+    "hotel-fenix-a-gran-meli-hotel-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "hotel-neri-relais-chateaux-barcelona": {
+      "latitude": 41.3831717,
+      "longitude": 2.1753925,
+      "needs_review": true
+    },
+    "intercontinental-barcelona-by-ihg-barcelona": {
+      "latitude": 41.3825802,
+      "longitude": 2.177073,
+      "needs_review": true
+    },
+    "intercontinental-madrid-by-ihg-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "kempinski-hotel-bahia-marbella-estepona-estepona": {
+      "latitude": 36.4268068,
+      "longitude": -5.1468484,
+      "needs_review": true
+    },
+    "kimpton-aysla-mallorca-by-ihg-calvia": {
+      "latitude": 39.5650931,
+      "longitude": 2.5046323,
+      "needs_review": true
+    },
+    "kimpton-los-monteros-marbella-by-ihg-marbella": {
+      "latitude": 36.508976,
+      "longitude": -4.88562,
+      "needs_review": true
+    },
+    "kimpton-vividora-hotel-by-ihg-barcelona": {
+      "latitude": 41.3825802,
+      "longitude": 2.177073,
+      "needs_review": true
+    },
+    "la-residencia-a-belmond-hotel-mallorca-deia": {
+      "latitude": 39.7477362,
+      "longitude": 2.6483432,
+      "needs_review": true
+    },
+    "la-zambra-resort-gl-in-the-unbound-collection-by-hyatt-mijas": {
+      "latitude": 36.5957471,
+      "longitude": -4.6375188,
+      "needs_review": true
+    },
+    "majestic-hotel-spa-barcelona-barcelona": {
+      "latitude": 41.3936815,
+      "longitude": 2.1641399,
+      "needs_review": true
+    },
+    "marbella-club-hotel-golf-resort-spa-marbella": {
+      "latitude": 36.508976,
+      "longitude": -4.88562,
+      "needs_review": true
+    },
+    "me-barcelona-barcelona": {
+      "latitude": 41.3825972,
+      "longitude": 2.1859534,
+      "needs_review": true
+    },
+    "me-ibiza-ibiza": {
+      "latitude": 38.992028,
+      "longitude": 1.5696522,
+      "needs_review": true
+    },
+    "mondrian-ibiza-santa-eulalia-del-rio": {
+      "latitude": 38.9846117,
+      "longitude": 1.534421,
+      "needs_review": true
+    },
+    "nobis-hotel-palma-palma-de-mallorca": {
+      "latitude": 39.5726134,
+      "longitude": 2.6485615,
+      "needs_review": true
+    },
+    "nobu-hotel-barcelona-barcelona": {
+      "latitude": 41.3796588,
+      "longitude": 2.1425262,
+      "needs_review": true
+    },
+    "nobu-hotel-ibiza-bay-ibiza": {
+      "latitude": 38.91833,
+      "longitude": 1.4566854,
+      "needs_review": true
+    },
+    "nobu-hotel-marbella-marbella": {
+      "latitude": 36.5040648,
+      "longitude": -4.9250537,
+      "needs_review": true
+    },
+    "nobu-hotel-san-sebasti-n-san-sebasti-n": {
+      "latitude": 43.3224219,
+      "longitude": -1.9838889,
+      "needs_review": true
+    },
+    "palacio-de-los-duques-gran-meli-the-leading-hotels-of-the-world-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "palacio-solecio-a-small-luxury-hotel-of-the-world-m-laga": {
+      "latitude": 36.7213028,
+      "longitude": -4.4216366,
+      "needs_review": true
+    },
+    "petunia-ibiza-a-beaumier-hotel-sant-josep-de-sa-talaia": {
+      "latitude": 38.9220629,
+      "longitude": 1.2939942,
+      "needs_review": true
+    },
+    "radisson-hotel-gran-via-bilbao-bilbao": {
+      "latitude": 43.26157,
+      "longitude": -2.9277004,
+      "needs_review": true
+    },
+    "santo-mauro-a-luxury-collection-hotel-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "seda-club-hotel-small-luxury-hotel-granada": {
+      "latitude": 37.1734995,
+      "longitude": -3.5995337,
+      "needs_review": true
+    },
+    "serras-barcelona-barcelona": {
+      "latitude": 41.3802369,
+      "longitude": 2.1806674,
+      "needs_review": true
+    },
+    "six-senses-ibiza-sant-joan-de-labritja": {
+      "latitude": 39.1108343,
+      "longitude": 1.5078208,
+      "needs_review": true
+    },
+    "sls-barcelona-sant-adria-de-besos": {
+      "latitude": 41.4154853,
+      "longitude": 2.2262724,
+      "needs_review": true
+    },
+    "so-sotogrande-spa-golf-resort-hotel-san-roque": {
+      "latitude": 36.2100586,
+      "longitude": -5.3868293,
+      "needs_review": true
+    },
+    "son-bunyola-hotel-banyalbufar": {
+      "latitude": 39.6874544,
+      "longitude": 2.5147715,
+      "needs_review": true
+    },
+    "the-barcelona-edition-barcelona": {
+      "latitude": 41.3860095,
+      "longitude": 2.1778381,
+      "needs_review": true
+    },
+    "the-lodge-mallorca-sa-pobla": {
+      "latitude": 39.7909109,
+      "longitude": 2.9955272,
+      "needs_review": true
+    },
+    "the-madrid-edition-madrid": {
+      "latitude": 40.4177773,
+      "longitude": -3.7063099,
+      "needs_review": true
+    },
+    "the-one-barcelona-barcelona": {
+      "latitude": 41.396214,
+      "longitude": 2.1629616,
+      "needs_review": true
+    },
+    "the-palace-a-luxury-collection-hotel-madrid-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "the-ritz-carlton-tenerife-abama-tenerife": {
+      "latitude": 28.1709941,
+      "longitude": -16.8014566,
+      "needs_review": true
+    },
+    "the-standard-ibiza-ibiza-town": {
+      "latitude": 38.9072784,
+      "longitude": 1.4353783,
+      "needs_review": true
+    },
+    "thompson-madrid-part-of-hyatt-madrid": {
+      "latitude": 40.416782,
+      "longitude": -3.703507,
+      "needs_review": true
+    },
+    "urso-hotel-spa-madrid": {
+      "latitude": 40.4270147,
+      "longitude": -3.698051,
+      "needs_review": true
+    },
+    "villa-le-blanc-a-gran-meli-hotel-es-migjorn-gran": {
+      "latitude": 39.9452014,
+      "longitude": 4.0492342,
+      "needs_review": true
+    },
+    "hotel-barri-re-le-carl-gustaf-st-barth-st-barthelemy": {
+      "latitude": 17.9036287,
+      "longitude": -62.8115292,
+      "needs_review": true
+    },
+    "hotel-le-toiny-st-barthelemy": {
+      "latitude": 17.8996951,
+      "longitude": -62.7978177,
+      "needs_review": true
+    },
+    "le-barth-lemy-hotel-spa-saint-barth-lemy": {
+      "latitude": 17.9080481,
+      "longitude": -62.8013062,
+      "needs_review": true
+    },
+    "le-sereno-st-barths-st-barthelemy": {
+      "latitude": 17.9098309,
+      "longitude": -62.8037964,
+      "needs_review": true
+    },
+    "four-seasons-resort-nevis-jessups-village": {
+      "needs_review": true
+    },
+    "park-hyatt-st-kitts-basseterre": {
+      "latitude": 17.3065773,
+      "longitude": -62.7157447,
+      "needs_review": true
+    },
+    "cap-maison-resort-spa-gros-islet": {
+      "latitude": 14.0996336,
+      "longitude": -60.9506804,
+      "needs_review": true
+    },
+    "sugar-beach-a-viceroy-resort-soufriere": {
+      "latitude": 13.8522266,
+      "longitude": -61.0238291,
+      "needs_review": true
+    },
+    "zoetry-marigot-bay-st-lucia-marigot-bay": {
+      "latitude": 13.9672285,
+      "longitude": -61.0289467,
+      "needs_review": true
+    },
+    "la-samanna-a-belmond-hotel-st-martin-st-martin": {
+      "latitude": 18.0814066,
+      "longitude": -63.0467131,
+      "needs_review": true
+    },
+    "grand-hotel-des-bains-kempinski-st-moritz-st-moritz": {
+      "latitude": 46.4978958,
+      "longitude": 9.8392428,
+      "needs_review": true
+    },
+    "hotel-d-angleterre-geneva-geneva": {
+      "latitude": 46.209642,
+      "longitude": 6.1503103,
+      "needs_review": true
+    },
+    "hotel-eden-roc-ascona": {
+      "latitude": 46.1506704,
+      "longitude": 8.7728986,
+      "needs_review": true
+    },
+    "kempinski-palace-engelberg-engelberg": {
+      "latitude": 46.8207289,
+      "longitude": 8.4023521,
+      "needs_review": true
+    },
+    "la-r-serve-eden-au-lac-zurich-z-rich": {
+      "latitude": 47.3627736,
+      "longitude": 8.5473797,
+      "needs_review": true
+    },
+    "la-reserve-geneve-hotel-spa-geneva": {
+      "latitude": 46.2017559,
+      "longitude": 6.1466014,
+      "needs_review": true
+    },
+    "mont-cervin-palace-zermatt": {
+      "latitude": 46.0210313,
+      "longitude": 7.7470589,
+      "needs_review": true
+    },
+    "radisson-blu-hotel-reussen-andermatt-andermatt": {
+      "latitude": 46.6340499,
+      "longitude": 8.5948148,
+      "needs_review": true
+    },
+    "six-senses-crans-montana-crans-montana": {
+      "latitude": 46.3096579,
+      "longitude": 7.4662627,
+      "needs_review": true
+    },
+    "the-alpina-gstaad-gstaad": {
+      "latitude": 46.4761599,
+      "longitude": 7.2884942,
+      "needs_review": true
+    },
+    "the-ritz-carlton-hotel-de-la-paix-geneva-geneva": {
+      "latitude": 46.2079205,
+      "longitude": 6.1485323,
+      "needs_review": true
+    },
+    "the-view-lugano-paradiso": {
+      "latitude": 45.9866401,
+      "longitude": 8.9499076,
+      "needs_review": true
+    },
+    "tschuggen-grand-hotel-arosa": {
+      "latitude": 46.7774763,
+      "longitude": 9.668803,
+      "needs_review": true
+    },
+    "w-verbier-verbier": {
+      "latitude": 46.0923491,
+      "longitude": 7.2332172,
+      "needs_review": true
+    },
+    "widder-hotel-zurich": {
+      "latitude": 47.3724404,
+      "longitude": 8.5398562,
+      "needs_review": true
+    },
+    "hotel-proverbs-taipei-taipei-city": {
+      "latitude": 25.0600269,
+      "longitude": 121.4595689,
+      "needs_review": true
+    },
+    "anantara-chiang-mai-resort-chiang-mai": {
+      "latitude": 18.7882778,
+      "longitude": 98.9858802,
+      "needs_review": true
+    },
+    "anantara-rasananda-koh-phangan-villas-suratthani": {
+      "latitude": 9.779449,
+      "longitude": 100.0553677,
+      "needs_review": true
+    },
+    "andaz-pattaya-jomtien-beach-chonburi": {
+      "latitude": 13.1857117,
+      "longitude": 101.1210777,
+      "needs_review": true
+    },
+    "banyan-tree-krabi-krabi": {
+      "latitude": 7.5510037,
+      "longitude": 99.0446588,
+      "needs_review": true
+    },
+    "banyan-tree-phuket-choeng-thale": {
+      "latitude": 8.0130233,
+      "longitude": 98.2958261,
+      "needs_review": true
+    },
+    "banyan-tree-samui-koh-samui": {
+      "latitude": 9.5013944,
+      "longitude": 99.9956193,
+      "needs_review": true
+    },
+    "devasom-khao-lak-beach-resort-villas-phang-nga": {
+      "latitude": 8.5058295,
+      "longitude": 98.5680335,
+      "needs_review": true
+    },
+    "dinso-resort-villas-phuket-vignette-collection-by-ihg-patong": {
+      "latitude": 7.8994173,
+      "longitude": 98.3087176,
+      "needs_review": true
+    },
+    "four-seasons-resort-chiang-mai-mae-rim": {
+      "latitude": 18.9149588,
+      "longitude": 98.9315215,
+      "needs_review": true
+    },
+    "four-seasons-tented-camp-golden-triangle-chiang-saen": {
+      "latitude": 20.2740709,
+      "longitude": 100.0836065,
+      "needs_review": true
+    },
+    "iniala-beach-house-takua-thung": {
+      "latitude": 8.2864831,
+      "longitude": 98.2741587,
+      "needs_review": true
+    },
+    "intercontinental-pattaya-resort-by-ihg-pattaya": {
+      "latitude": 12.9366924,
+      "longitude": 100.8865002,
+      "needs_review": true
+    },
+    "intercontinental-phuket-resort-by-ihg-kamala": {
+      "latitude": 7.949931,
+      "longitude": 98.2827611,
+      "needs_review": true
+    },
+    "keemala-phuket": {
+      "latitude": 7.9431911,
+      "longitude": 98.2788779,
+      "needs_review": true
+    },
+    "kimpton-kitalay-samui-by-ihg-koh-samui": {
+      "latitude": 9.5013944,
+      "longitude": 99.9956193,
+      "needs_review": true
+    },
+    "kimpton-maa-lai-bangkok-by-ihg-bangkok": {
+      "latitude": 13.7524938,
+      "longitude": 100.4935089,
+      "needs_review": true
+    },
+    "napasai-a-belmond-hotel-koh-samui-koh-samui": {
+      "latitude": 9.5013944,
+      "longitude": 99.9956193,
+      "needs_review": true
+    },
+    "phulay-bay-a-ritz-carlton-reserve-krabi": {
+      "latitude": 8.1111653,
+      "longitude": 99.1097298,
+      "needs_review": true
+    },
+    "sindhorn-kempinski-hotel-bangkok-bangkok": {
+      "latitude": 13.7368617,
+      "longitude": 100.5436994,
+      "needs_review": true
+    },
+    "the-naka-island-a-luxury-collection-resort-spa-phuket-pa-klok": {
+      "latitude": 8.0304221,
+      "longitude": 98.4021322,
+      "needs_review": true
+    },
+    "the-ritz-carlton-koh-samui-koh-samui": {
+      "latitude": 9.5013944,
+      "longitude": 99.9956193,
+      "needs_review": true
+    },
+    "the-siam-bangkok": {
+      "latitude": 13.7814178,
+      "longitude": 100.5053739,
+      "needs_review": true
+    },
+    "the-standard-bangkok-mahanakhon-bangkok": {
+      "latitude": 13.7524938,
+      "longitude": 100.4935089,
+      "needs_review": true
+    },
+    "four-seasons-hotel-tunis-tunis": {
+      "latitude": 36.9200957,
+      "longitude": 10.294921,
+      "needs_review": true
+    },
+    "beach-enclave-providenciales": {
+      "latitude": 21.814447,
+      "longitude": -72.1509849,
+      "needs_review": true
+    },
+    "rock-house-providenciales": {
+      "latitude": 21.814447,
+      "longitude": -72.1509849,
+      "needs_review": true
+    },
+    "salterra-a-luxury-collection-resort-spa-south-caicos-cockburn-harbour": {
+      "needs_review": true
+    },
+    "wymara-resort-and-villas-providenciales": {
+      "latitude": 21.814447,
+      "longitude": -72.1509849,
+      "needs_review": true
+    },
+    "buoy-haus-beach-resort-st-thomas-autograph-collection-st-thomas": {
+      "latitude": 18.3429082,
+      "longitude": -64.9188997,
+      "needs_review": true
+    },
+    "four-seasons-hotel-dubai-international-financial-centre-dubai": {
+      "latitude": 25.0742823,
+      "longitude": 55.1885387,
+      "needs_review": true
+    },
+    "intercontinental-residences-dubai-business-bay-by-ihg-dubai": {
+      "latitude": 25.0742823,
+      "longitude": 55.1885387,
+      "needs_review": true
+    },
+    "jumeirah-al-naseem-dubai-dubai": {
+      "latitude": 25.1366976,
+      "longitude": 55.1871425,
+      "needs_review": true
+    },
+    "jumeirah-dar-al-masyaf-dubai": {
+      "latitude": 25.131031,
+      "longitude": 55.1838897,
+      "needs_review": true
+    },
+    "jumeirah-marsa-al-arab-dubai": {
+      "latitude": 25.1445258,
+      "longitude": 55.1895715,
+      "needs_review": true
+    },
+    "sls-dubai-hotel-residences-dubai": {
+      "latitude": 25.1845912,
+      "longitude": 55.2922866,
+      "needs_review": true
+    },
+    "so-uptown-dubai-dubai": {
+      "latitude": 25.0742823,
+      "longitude": 55.1885387,
+      "needs_review": true
+    },
+    "taj-dubai-dubai": {
+      "latitude": 25.1922726,
+      "longitude": 55.2673386,
+      "needs_review": true
+    },
+    "the-lana-dorchester-collection-dubai": {
+      "latitude": 25.188041,
+      "longitude": 55.2882653,
+      "needs_review": true
+    },
+    "100-princes-street-edinburgh": {
+      "latitude": 55.9515935,
+      "longitude": -3.2001376,
+      "needs_review": true
+    },
+    "11-cadogan-gardens-and-the-apartments-london": {
+      "latitude": 51.5074456,
+      "longitude": -0.1277653,
+      "needs_review": true
+    },
+    "aethos-london-shoreditch-london": {
+      "latitude": 51.5074456,
+      "longitude": -0.1277653,
+      "needs_review": true
+    },
+    "cliveden-house-an-iconic-luxury-hotel-maidenhead": {
+      "latitude": 51.522743,
+      "longitude": -0.7197368,
+      "needs_review": true
+    },
+    "como-metropolitan-london-london": {
+      "latitude": 51.5051024,
+      "longitude": -0.14978,
+      "needs_review": true
+    },
+    "coworth-park-dorchester-collection-ascot": {
+      "latitude": 51.4101286,
+      "longitude": -0.6680194,
+      "needs_review": true
+    },
+    "dorset-square-hotel-firmdale-hotels-london": {
+      "latitude": 51.5074456,
+      "longitude": -0.1277653,
+      "needs_review": true
+    },
+    "estelle-manor-park": {
+      "latitude": 51.8078183,
+      "longitude": -1.4278458,
+      "needs_review": true
+    },
+    "fairmont-windsor-park-egham": {
+      "latitude": 51.4352491,
+      "longitude": -0.590254,
+      "needs_review": true
+    },
+    "four-seasons-hotel-hampshire-hook": {
+      "latitude": 51.3678984,
+      "longitude": -0.3071453,
+      "needs_review": true
+    },
+    "st-martins-lane-london-london": {
+      "latitude": 51.5105435,
+      "longitude": -0.1263409,
+      "needs_review": true
+    },
+    "the-cadogan-a-belmond-hotel-london-london": {
+      "latitude": 51.5074456,
+      "longitude": -0.1277653,
+      "needs_review": true
+    },
+    "the-emory-belgravia": {
+      "latitude": 51.4982128,
+      "longitude": -0.1534998,
+      "needs_review": true
+    },
+    "the-gleneagles-townhouse-edinburgh": {
+      "latitude": 55.9533456,
+      "longitude": -3.1883749,
+      "needs_review": true
+    },
+    "the-langley-a-luxury-collection-hotel-buckinghamshire-slough": {
+      "latitude": 51.5111014,
+      "longitude": -0.5940682,
+      "needs_review": true
+    },
+    "the-london-edition-london": {
+      "latitude": 51.5167793,
+      "longitude": -0.1360549,
+      "needs_review": true
+    },
+    "the-londoner-hotel-london": {
+      "latitude": 51.5096621,
+      "longitude": -0.1304471,
+      "needs_review": true
+    },
+    "the-marylebone-london": {
+      "latitude": 51.5199033,
+      "longitude": -0.1520349,
+      "needs_review": true
+    },
+    "the-milestone-hotel-residences-london": {
+      "latitude": 51.5074456,
+      "longitude": -0.1277653,
+      "needs_review": true
+    },
+    "the-ned-london": {
+      "latitude": 51.5137266,
+      "longitude": -0.090038,
+      "needs_review": true
+    },
+    "the-royal-crescent-hotel-spa-bath": {
+      "latitude": 51.3813864,
+      "longitude": -2.3596963,
+      "needs_review": true
+    },
+    "the-soho-hotel-london": {
+      "latitude": 51.5140175,
+      "longitude": -0.1337701,
+      "needs_review": true
+    },
+    "the-standard-london-london": {
+      "latitude": 51.4770445,
+      "longitude": 0.0191953,
+      "needs_review": true
+    },
+    "virgin-hotels-edinburgh-edinburgh": {
+      "latitude": 55.9484316,
+      "longitude": -3.1929943,
+      "needs_review": true
+    },
+    "w-edinburgh-edinburgh": {
+      "latitude": 55.9536783,
+      "longitude": -3.3543664,
+      "needs_review": true
+    },
+    "1-hotel-hanalei-bay-princeville": {
+      "latitude": 22.223611,
+      "longitude": -159.485278,
+      "needs_review": true
+    },
+    "21c-museum-hotel-cincinnati-cincinnati": {
+      "latitude": 39.1030874,
+      "longitude": -84.5121113,
+      "needs_review": true
+    },
+    "21c-museum-hotel-louisville-louisville": {
+      "latitude": 38.256802,
+      "longitude": -85.7618553,
+      "needs_review": true
+    },
+    "21c-museum-hotel-st-louis-st-louis": {
+      "latitude": 38.6314419,
+      "longitude": -90.2024897,
+      "needs_review": true
+    },
+    "27-north-healdsburg": {
+      "latitude": 38.611924,
+      "longitude": -122.871531,
+      "needs_review": true
+    },
+    "33-seaport-hotel-new-york-new-york": {
+      "latitude": 40.7080083,
+      "longitude": -74.0014177,
+      "needs_review": true
+    },
+    "ace-hotel-brooklyn-brooklyn": {
+      "latitude": 40.6878472,
+      "longitude": -73.9837797,
+      "needs_review": true
+    },
+    "acqualina-resort-residences-on-the-beach-sunny-isles-beach": {
+      "latitude": 25.9407949,
+      "longitude": -80.1204954,
+      "needs_review": true
+    },
+    "alila-marea-beach-resort-a-hyatt-luxury-resort-encinitas": {
+      "latitude": 33.0369867,
+      "longitude": -117.2919818,
+      "needs_review": true
+    },
+    "alila-napa-valley-a-hyatt-luxury-resort-st-helena": {
+      "latitude": 38.5052288,
+      "longitude": -122.470042,
+      "needs_review": true
+    },
+    "alma-san-diego-downtown-a-tribute-portfolio-hotel-san-diego": {
+      "latitude": 32.7174202,
+      "longitude": -117.162772,
+      "needs_review": true
+    },
+    "amara-resort-and-spa-sedona": {
+      "latitude": 34.8696757,
+      "longitude": -111.7584365,
+      "needs_review": true
+    },
+    "ambiente-a-landscape-hotel-sedona-sedona": {
+      "latitude": 34.8688613,
+      "longitude": -111.7614394,
+      "needs_review": true
+    },
+    "amrit-ocean-resort-singer-island": {
+      "latitude": 26.7850625,
+      "longitude": -80.0375408,
+      "needs_review": true
+    },
+    "carmel-valley-ranch-carmel": {
+      "latitude": 36.510125,
+      "longitude": -121.767349,
+      "needs_review": true
+    },
+    "casa-cipriani-new-york-new-york": {
+      "latitude": 40.7010584,
+      "longitude": -74.011976,
+      "needs_review": true
+    },
+    "castle-hot-springs-morristown": {
+      "latitude": 33.8650219,
+      "longitude": -112.6111775,
+      "needs_review": true
+    },
+    "chatham-bars-inn-chatham": {
+      "latitude": 41.6849902,
+      "longitude": -69.9524867,
+      "needs_review": true
+    },
+    "cloister-at-the-boca-raton-boca-raton": {
+      "latitude": 26.3586885,
+      "longitude": -80.0830984,
+      "needs_review": true
+    },
+    "colony-palms-hotel-bungalows-palm-springs": {
+      "latitude": 33.8246269,
+      "longitude": -116.540303,
+      "needs_review": true
+    },
+    "cordevalle-san-martin": {
+      "latitude": 37.0676914,
+      "longitude": -121.6329551,
+      "needs_review": true
+    },
+    "dawn-ranch-guerneville": {
+      "latitude": 38.501902,
+      "longitude": -123.0053354,
+      "needs_review": true
+    },
+    "downtown-l-a-proper-los-angeles": {
+      "latitude": 34.0536909,
+      "longitude": -118.242766,
+      "needs_review": true
+    },
+    "dunton-hot-springs-dolores": {
+      "latitude": 37.7524811,
+      "longitude": -108.4596087,
+      "needs_review": true
+    },
+    "eaton-dc-washington": {
+      "latitude": 38.9027867,
+      "longitude": -77.028462,
+      "needs_review": true
+    },
+    "eau-palm-beach-resort-spa-manalapan": {
+      "latitude": 26.5830292,
+      "longitude": -80.0385192,
+      "needs_review": true
+    },
+    "eden-roc-miami-beach-miami-beach": {
+      "latitude": 25.8194734,
+      "longitude": -80.1217672,
+      "needs_review": true
+    },
+    "edgewood-tahoe-resort-stateline": {
+      "latitude": 38.9667745,
+      "longitude": -119.9442746,
+      "needs_review": true
+    },
+    "ehp-resort-marina-east-hampton": {
+      "latitude": 40.9633868,
+      "longitude": -72.1847598,
+      "needs_review": true
+    },
+    "elliot-park-hotel-autograph-collection-minneapolis": {
+      "latitude": 44.9772995,
+      "longitude": -93.2654692,
+      "needs_review": true
+    },
+    "emeline-charleston": {
+      "latitude": 32.7813504,
+      "longitude": -79.9297581,
+      "needs_review": true
+    },
+    "equinox-hotel-new-york-new-york": {
+      "latitude": 40.7544707,
+      "longitude": -74.0024161,
+      "needs_review": true
+    },
+    "espacio-the-jewel-of-waikiki-honolulu": {
+      "latitude": 21.304547,
+      "longitude": -157.855676,
+      "needs_review": true
+    },
+    "estancia-la-jolla-hotel-spa-la-jolla": {
+      "latitude": 32.8847459,
+      "longitude": -117.2451566,
+      "needs_review": true
+    },
+    "fairmont-austin-austin": {
+      "latitude": 30.2620637,
+      "longitude": -97.7382442,
+      "needs_review": true
+    },
+    "fairmont-chicago-millennium-park-chicago": {
+      "latitude": 41.8755616,
+      "longitude": -87.6244212,
+      "needs_review": true
+    },
+    "fairmont-dallas-dallas": {
+      "latitude": 32.7854382,
+      "longitude": -96.801494,
+      "needs_review": true
+    },
+    "fairmont-el-san-juan-hotel-carolina": {
+      "latitude": 18.4432657,
+      "longitude": -66.0182935,
+      "needs_review": true
+    },
+    "fairmont-sonoma-mission-inn-spa-sonoma": {
+      "latitude": 38.3131939,
+      "longitude": -122.4825465,
+      "needs_review": true
+    },
+    "farmhouse-inn-forestville": {
+      "latitude": 38.4838305,
+      "longitude": -122.8856606,
+      "needs_review": true
+    },
+    "fontainebleau-las-vegas-las-vegas": {
+      "latitude": 36.1374208,
+      "longitude": -115.1592284,
+      "needs_review": true
+    },
+    "forth-hotel-atlanta-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "fouquet-s-new-york-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "four-seasons-hotel-and-residences-fort-lauderdale-fort-lauderdale": {
+      "latitude": 26.1223084,
+      "longitude": -80.1433786,
+      "needs_review": true
+    },
+    "four-seasons-hotel-at-the-surf-club-surfside": {
+      "latitude": 25.8773181,
+      "longitude": -80.1211661,
+      "needs_review": true
+    },
+    "four-seasons-hotel-baltimore-baltimore": {
+      "latitude": 39.2827399,
+      "longitude": -76.6024709,
+      "needs_review": true
+    },
+    "four-seasons-hotel-los-angeles-at-westlake-village-thousand-oaks": {
+      "latitude": 34.1705609,
+      "longitude": -118.8375937,
+      "needs_review": true
+    },
+    "four-seasons-hotel-san-francisco-at-embarcadero-san-francisco": {
+      "latitude": 37.7932754,
+      "longitude": -122.3963589,
+      "needs_review": true
+    },
+    "four-seasons-hotel-silicon-valley-at-east-palo-alto-palo-alto": {
+      "latitude": 37.4443293,
+      "longitude": -122.1598465,
+      "needs_review": true
+    },
+    "four-seasons-hotel-st-louis-st-louis": {
+      "latitude": 38.6338762,
+      "longitude": -90.1848612,
+      "needs_review": true
+    },
+    "four-seasons-resort-rancho-encantado-santa-fe-santa-fe": {
+      "latitude": 35.7995946,
+      "longitude": -105.9221556,
+      "needs_review": true
+    },
+    "gansevoort-meatpacking-new-york": {
+      "latitude": 40.7398769,
+      "longitude": -74.0057111,
+      "needs_review": true
+    },
+    "glenmere-mansion-chester": {
+      "latitude": 41.3384693,
+      "longitude": -74.3239681,
+      "needs_review": true
+    },
+    "grand-bohemian-charleston-autograph-collection-charleston": {
+      "latitude": 32.7884363,
+      "longitude": -79.9399309,
+      "needs_review": true
+    },
+    "grand-bohemian-hotel-asheville-autograph-collection-asheville": {
+      "latitude": 35.595363,
+      "longitude": -82.5508407,
+      "needs_review": true
+    },
+    "grand-hyatt-deer-valley-park-city": {
+      "latitude": 40.6460921,
+      "longitude": -111.4979963,
+      "needs_review": true
+    },
+    "grand-hyatt-indian-wells-resort-villas-indian-wells": {
+      "latitude": 33.7236823,
+      "longitude": -116.3323113,
+      "needs_review": true
+    },
+    "grand-hyatt-kauai-resort-spa-koloa": {
+      "latitude": 21.9042279,
+      "longitude": -159.465733,
+      "needs_review": true
+    },
+    "hotel-californian-santa-barbara": {
+      "latitude": 34.4221319,
+      "longitude": -119.702667,
+      "needs_review": true
+    },
+    "hotel-clio-a-luxury-collection-hotel-denver-cherry-creek-denver": {
+      "latitude": 39.7392364,
+      "longitude": -104.984862,
+      "needs_review": true
+    },
+    "hotel-colee-atlanta-buckhead-autograph-collection-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "hotel-commonwealth-boston": {
+      "latitude": 42.3484665,
+      "longitude": -71.0956521,
+      "needs_review": true
+    },
+    "hotel-emma-at-pearl-san-antonio": {
+      "latitude": 29.4433017,
+      "longitude": -98.4809945,
+      "needs_review": true
+    },
+    "hotel-genevieve-louisville": {
+      "latitude": 38.2542376,
+      "longitude": -85.759407,
+      "needs_review": true
+    },
+    "hotel-granduca-houston-houston": {
+      "latitude": 29.7576242,
+      "longitude": -95.4581968,
+      "needs_review": true
+    },
+    "hotel-kansas-city-kansas-city": {
+      "latitude": 39.0988729,
+      "longitude": -94.584635,
+      "needs_review": true
+    },
+    "hotel-magdalena-austin": {
+      "latitude": 30.2711286,
+      "longitude": -97.7436995,
+      "needs_review": true
+    },
+    "hotel-nia-autograph-collection-menlo-park": {
+      "latitude": 37.4519671,
+      "longitude": -122.177992,
+      "needs_review": true
+    },
+    "hotel-per-la-autograph-collection-los-angeles": {
+      "latitude": 34.0536909,
+      "longitude": -118.242766,
+      "needs_review": true
+    },
+    "hotel-polaris-colorado-springs": {
+      "latitude": 39.023768,
+      "longitude": -104.8386777,
+      "needs_review": true
+    },
+    "hotel-saint-augustine-houston": {
+      "latitude": 29.7356728,
+      "longitude": -95.3980574,
+      "needs_review": true
+    },
+    "hotel-van-zandt-austin": {
+      "latitude": 30.259907,
+      "longitude": -97.7390523,
+      "needs_review": true
+    },
+    "hotel-wailea-relais-ch-teaux-kihei": {
+      "latitude": 20.7476261,
+      "longitude": -156.4549898,
+      "needs_review": true
+    },
+    "hotel-yountville-yountville": {
+      "latitude": 38.3998275,
+      "longitude": -122.3601258,
+      "needs_review": true
+    },
+    "hotel-zoe-san-francisco": {
+      "latitude": 37.8061539,
+      "longitude": -122.4141894,
+      "needs_review": true
+    },
+    "hyatt-regency-coconut-point-resort-spa-bonita-springs": {
+      "latitude": 26.339806,
+      "longitude": -81.7786972,
+      "needs_review": true
+    },
+    "hyatt-regency-huntington-beach-resort-and-spa-huntington-beach": {
+      "latitude": 33.6783336,
+      "longitude": -118.000016,
+      "needs_review": true
+    },
+    "ingleside-estate-palm-springs": {
+      "latitude": 33.8246269,
+      "longitude": -116.540303,
+      "needs_review": true
+    },
+    "inn-and-spa-at-loretto-santa-fe": {
+      "latitude": 35.685401,
+      "longitude": -105.9369057,
+      "needs_review": true
+    },
+    "inn-at-perry-cabin-st-michaels": {
+      "latitude": 38.7903221,
+      "longitude": -76.2220863,
+      "needs_review": true
+    },
+    "inn-on-fifth-naples": {
+      "latitude": 26.1421976,
+      "longitude": -81.7942944,
+      "needs_review": true
+    },
+    "inness-accord": {
+      "latitude": 41.7976492,
+      "longitude": -74.2308842,
+      "needs_review": true
+    },
+    "intercontinental-buckhead-atlanta-by-ihg-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "intercontinental-indianapolis-indianapolis": {
+      "latitude": 39.7683331,
+      "longitude": -86.1583502,
+      "needs_review": true
+    },
+    "intercontinental-los-angeles-downtown-by-ihg-los-angeles": {
+      "latitude": 34.0536909,
+      "longitude": -118.242766,
+      "needs_review": true
+    },
+    "intercontinental-new-york-barclay-by-ihg-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "intercontinental-new-york-times-square-by-ihg-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "intercontinental-san-antonio-riverwalk-by-ihg-san-antonio": {
+      "latitude": 29.4246002,
+      "longitude": -98.4951405,
+      "needs_review": true
+    },
+    "intercontinental-san-diego-by-ihg-san-diego": {
+      "latitude": 32.7174202,
+      "longitude": -117.162772,
+      "needs_review": true
+    },
+    "intercontinental-seattle-bellevue-by-ihg-bellevue": {
+      "latitude": 47.6180341,
+      "longitude": -122.202903,
+      "needs_review": true
+    },
+    "intercontinental-washington-d-c-the-wharf-by-ihg-washington": {
+      "latitude": 38.8950368,
+      "longitude": -77.0365427,
+      "needs_review": true
+    },
+    "isla-bella-beach-resort-spa-marathon": {
+      "latitude": 24.7137524,
+      "longitude": -81.0903512,
+      "needs_review": true
+    },
+    "jekyll-ocean-club-jekyll-island": {
+      "latitude": 31.0655864,
+      "longitude": -81.4140495,
+      "needs_review": true
+    },
+    "jw-marriott-marco-island-beach-resort-marco-island": {
+      "latitude": 25.9278432,
+      "longitude": -81.7286535,
+      "needs_review": true
+    },
+    "jw-marriott-orlando-bonnet-creek-resort-spa-orlando": {
+      "latitude": 28.5421218,
+      "longitude": -81.379045,
+      "needs_review": true
+    },
+    "jw-marriott-orlando-grande-lakes-orlando": {
+      "latitude": 28.5421218,
+      "longitude": -81.379045,
+      "needs_review": true
+    },
+    "jw-marriott-scottsdale-camelback-inn-resort-spa-scottsdale": {
+      "latitude": 33.4942189,
+      "longitude": -111.926018,
+      "needs_review": true
+    },
+    "jw-marriott-turnberry-resort-spa-aventura": {
+      "latitude": 25.9564812,
+      "longitude": -80.1392121,
+      "needs_review": true
+    },
+    "jw-marriott-anaheim-resort-anaheim": {
+      "latitude": 33.8044635,
+      "longitude": -117.9107451,
+      "needs_review": true
+    },
+    "keswick-hall-golf-club-keswick": {
+      "latitude": 38.01139,
+      "longitude": -78.3617659,
+      "needs_review": true
+    },
+    "kimpton-armory-hotel-bozeman-by-ihg-bozeman": {
+      "latitude": 45.6794293,
+      "longitude": -111.044047,
+      "needs_review": true
+    },
+    "kimpton-brice-hotel-by-ihg-savannah": {
+      "latitude": 32.0790074,
+      "longitude": -81.0921335,
+      "needs_review": true
+    },
+    "kimpton-canary-hotel-by-ihg-santa-barbara": {
+      "latitude": 34.4221319,
+      "longitude": -119.702667,
+      "needs_review": true
+    },
+    "kimpton-cardinal-hotel-by-ihg-winston-salem": {
+      "latitude": 36.0998131,
+      "longitude": -80.2440518,
+      "needs_review": true
+    },
+    "kimpton-claret-hotel-by-ihg-denver": {
+      "latitude": 39.7392364,
+      "longitude": -104.984862,
+      "needs_review": true
+    },
+    "kimpton-cottonwood-by-ihg-omaha": {
+      "latitude": 41.2587459,
+      "longitude": -95.9383758,
+      "needs_review": true
+    },
+    "kimpton-epic-hotel-by-ihg-miami": {
+      "latitude": 25.7741566,
+      "longitude": -80.1935973,
+      "needs_review": true
+    },
+    "kimpton-gray-hotel-by-ihg-chicago": {
+      "latitude": 41.8755616,
+      "longitude": -87.6244212,
+      "needs_review": true
+    },
+    "kimpton-hotel-fontenot-by-ihg-new-orleans": {
+      "latitude": 29.9559145,
+      "longitude": -90.0730259,
+      "needs_review": true
+    },
+    "kimpton-hotel-monaco-salt-lake-city-salt-lake-city": {
+      "latitude": 40.7646563,
+      "longitude": -111.8919453,
+      "needs_review": true
+    },
+    "kimpton-hotel-vintage-portland-by-ihg-portland": {
+      "latitude": 45.5202471,
+      "longitude": -122.674194,
+      "needs_review": true
+    },
+    "kimpton-journeyman-hotel-by-ihg-milwaukee": {
+      "latitude": 43.0386475,
+      "longitude": -87.9090751,
+      "needs_review": true
+    },
+    "kimpton-la-peer-hotel-west-hollywood-by-ihg-west-hollywood": {
+      "latitude": 34.0923014,
+      "longitude": -118.3692894,
+      "needs_review": true
+    },
+    "kimpton-marlowe-hotel-by-ihg-cambridge": {
+      "latitude": 42.3656347,
+      "longitude": -71.1040018,
+      "needs_review": true
+    },
+    "kimpton-palladian-hotel-seattle": {
+      "latitude": 47.6038321,
+      "longitude": -122.330062,
+      "needs_review": true
+    },
+    "kimpton-pittman-hotel-downtown-dallas-by-ihg-dallas": {
+      "latitude": 32.7762719,
+      "longitude": -96.7968559,
+      "needs_review": true
+    },
+    "kimpton-riverplace-hotel-by-ihg-portland": {
+      "latitude": 45.5202471,
+      "longitude": -122.674194,
+      "needs_review": true
+    },
+    "kimpton-santo-san-antonio-riverwalk-by-ihg-san-antonio": {
+      "latitude": 29.4246002,
+      "longitude": -98.4951405,
+      "needs_review": true
+    },
+    "kimpton-sawyer-hotel-by-ihg-sacramento": {
+      "latitude": 38.5810606,
+      "longitude": -121.493895,
+      "needs_review": true
+    },
+    "kimpton-shane-hotel-by-ihg-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "kimpton-sylvan-hotel-by-ihg-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "kimpton-taconic-hotel-by-ihg-manchester": {
+      "latitude": 43.176909,
+      "longitude": -73.0568716,
+      "needs_review": true
+    },
+    "kimpton-the-forum-hotel-by-ihg-charlottesville": {
+      "latitude": 38.029306,
+      "longitude": -78.4766781,
+      "needs_review": true
+    },
+    "kimpton-tryon-park-charlotte": {
+      "latitude": 35.2262379,
+      "longitude": -80.8465493,
+      "needs_review": true
+    },
+    "kimpton-vero-beach-hotel-spa-by-ihg-vero-beach": {
+      "latitude": 27.6387163,
+      "longitude": -80.3975399,
+      "needs_review": true
+    },
+    "ko-a-kea-resort-on-po-ipu-beach-koloa": {
+      "latitude": 21.9042279,
+      "longitude": -159.465733,
+      "needs_review": true
+    },
+    "kona-kai-san-diego-san-diego": {
+      "latitude": 33.1155126,
+      "longitude": -117.1226867,
+      "needs_review": true
+    },
+    "l-auberge-de-sedona-sedona": {
+      "latitude": 34.8687,
+      "longitude": -111.7596366,
+      "needs_review": true
+    },
+    "l-auberge-del-mar-del-mar": {
+      "latitude": 32.960317,
+      "longitude": -117.2659115,
+      "needs_review": true
+    },
+    "la-cantera-resort-spa-san-antonio": {
+      "latitude": 29.6014918,
+      "longitude": -98.6208406,
+      "needs_review": true
+    },
+    "lake-austin-spa-resort-austin": {
+      "latitude": 30.327246,
+      "longitude": -97.9261326,
+      "needs_review": true
+    },
+    "langham-huntington-pasadena-los-angeles-pasadena": {
+      "latitude": 34.1207531,
+      "longitude": -118.1334227,
+      "needs_review": true
+    },
+    "laplaya-beach-golf-resort-a-noble-house-resort-naples": {
+      "latitude": 26.1421976,
+      "longitude": -81.7942944,
+      "needs_review": true
+    },
+    "laurel-hotel-and-spa-auburn": {
+      "latitude": 32.6098566,
+      "longitude": -85.4807825,
+      "needs_review": true
+    },
+    "lido-house-autograph-collection-newport-beach": {
+      "latitude": 33.6170092,
+      "longitude": -117.9294401,
+      "needs_review": true
+    },
+    "limelight-hotel-aspen-aspen": {
+      "latitude": 39.1890406,
+      "longitude": -106.8213656,
+      "needs_review": true
+    },
+    "limelight-hotel-denver-denver": {
+      "latitude": 39.7531891,
+      "longitude": -105.001955,
+      "needs_review": true
+    },
+    "limelight-hotel-ketchum-ketchum": {
+      "latitude": 43.6790471,
+      "longitude": -114.3625753,
+      "needs_review": true
+    },
+    "limelight-hotel-snowmass-snowmass-village": {
+      "latitude": 39.2087848,
+      "longitude": -106.9474514,
+      "needs_review": true
+    },
+    "loews-atlanta-hotel-atlanta": {
+      "latitude": 33.7833018,
+      "longitude": -84.3833397,
+      "needs_review": true
+    },
+    "loews-chicago-hotel-chicago": {
+      "latitude": 41.8755616,
+      "longitude": -87.6244212,
+      "needs_review": true
+    },
+    "loews-nashville-hotel-at-vanderbilt-plaza-nashville": {
+      "latitude": 36.1622767,
+      "longitude": -86.7742984,
+      "needs_review": true
+    },
+    "loews-philadelphia-hotel-philadelphia": {
+      "latitude": 39.9514283,
+      "longitude": -75.1603181,
+      "needs_review": true
+    },
+    "loews-regency-new-york-hotel-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "lotte-hotel-seattle-seattle": {
+      "latitude": 47.6052518,
+      "longitude": -122.33084,
+      "needs_review": true
+    },
+    "lumiere-by-dunton-telluride": {
+      "latitude": 37.9374939,
+      "longitude": -107.812285,
+      "needs_review": true
+    },
+    "macarthur-place-sonoma": {
+      "latitude": 38.2841066,
+      "longitude": -122.4576608,
+      "needs_review": true
+    },
+    "maison-m-tier-new-orleans": {
+      "latitude": 29.9486932,
+      "longitude": -90.0718703,
+      "needs_review": true
+    },
+    "mandalay-bay-resort-and-casino-las-vegas": {
+      "latitude": 36.1674263,
+      "longitude": -115.1484131,
+      "needs_review": true
+    },
+    "marquesa-key-west-key-west": {
+      "latitude": 24.5691142,
+      "longitude": -81.7613905,
+      "needs_review": true
+    },
+    "marram-montauk-montauk": {
+      "latitude": 41.0419705,
+      "longitude": -71.94147,
+      "needs_review": true
+    },
+    "mayfair-house-hotel-garden-coconut-grove-miami-miami": {
+      "latitude": 25.7741566,
+      "longitude": -80.1935973,
+      "needs_review": true
+    },
+    "meadowood-napa-valley-st-helena": {
+      "latitude": 38.5052288,
+      "longitude": -122.470042,
+      "needs_review": true
+    },
+    "mgm-grand-hotel-casino-las-vegas": {
+      "latitude": 36.1027891,
+      "longitude": -115.1694006,
+      "needs_review": true
+    },
+    "miraval-berkshires-lenox": {
+      "latitude": 42.3424724,
+      "longitude": -73.2672794,
+      "needs_review": true
+    },
+    "mission-pacific-beach-resort-oceanside": {
+      "latitude": 33.194587,
+      "longitude": -117.3828887,
+      "needs_review": true
+    },
+    "moana-surfrider-a-westin-resort-spa-waikiki-beach-honolulu": {
+      "latitude": 21.304547,
+      "longitude": -157.855676,
+      "needs_review": true
+    },
+    "mollie-aspen-aspen": {
+      "latitude": 39.1924322,
+      "longitude": -106.808842,
+      "needs_review": true
+    },
+    "mondrian-los-angeles-west-hollywood": {
+      "latitude": 34.0943831,
+      "longitude": -118.3743655,
+      "needs_review": true
+    },
+    "ocean-key-resort-a-noble-house-resort-key-west": {
+      "latitude": 24.5548262,
+      "longitude": -81.8020722,
+      "needs_review": true
+    },
+    "oceans-edge-resort-marina-key-west": {
+      "latitude": 24.5630842,
+      "longitude": -81.7298287,
+      "needs_review": true
+    },
+    "omni-amelia-island-resort-fernandina-beach": {
+      "latitude": 30.5563832,
+      "longitude": -81.4479942,
+      "needs_review": true
+    },
+    "omni-homestead-resort-hot-springs": {
+      "latitude": 37.9993415,
+      "longitude": -79.8189367,
+      "needs_review": true
+    },
+    "omni-hotel-at-the-battery-atlanta-atlanta": {
+      "latitude": 33.8893737,
+      "longitude": -84.4676616,
+      "needs_review": true
+    },
+    "omni-mount-washington-resort-bretton-woods": {
+      "latitude": 44.2573528,
+      "longitude": -71.4394475,
+      "needs_review": true
+    },
+    "omni-oklahoma-city-hotel-oklahoma-city": {
+      "latitude": 35.4729886,
+      "longitude": -97.5170536,
+      "needs_review": true
+    },
+    "omni-orlando-at-championsgate-championsgate": {
+      "latitude": 28.2616788,
+      "longitude": -81.6184079,
+      "needs_review": true
+    },
+    "omni-scottsdale-resort-spa-at-montelucia-scottsdale": {
+      "latitude": 33.4942189,
+      "longitude": -111.926018,
+      "needs_review": true
+    },
+    "omni-tucson-national-resort-tucson": {
+      "latitude": 32.3582756,
+      "longitude": -111.0251666,
+      "needs_review": true
+    },
+    "one-only-moonlight-basin-big-sky": {
+      "latitude": 45.255111,
+      "longitude": -111.2661895,
+      "needs_review": true
+    },
+    "palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco": {
+      "latitude": 37.7932754,
+      "longitude": -122.3963589,
+      "needs_review": true
+    },
+    "park-hyatt-aviara-resort-and-spa-carlsbad": {
+      "latitude": 33.1580933,
+      "longitude": -117.3505966,
+      "needs_review": true
+    },
+    "park-hyatt-beaver-creek-resort-spa-beaver-creek": {
+      "latitude": 39.6048786,
+      "longitude": -106.5150017,
+      "needs_review": true
+    },
+    "park-hyatt-washington-dc-washington-dc": {
+      "latitude": 38.9057969,
+      "longitude": -77.0510924,
+      "needs_review": true
+    },
+    "park-lane-new-york-new-york": {
+      "latitude": 40.6200243,
+      "longitude": -74.0889556,
+      "needs_review": true
+    },
+    "park-mgm-las-vegas-las-vegas": {
+      "latitude": 36.1047548,
+      "longitude": -115.175262,
+      "needs_review": true
+    },
+    "parker-palm-springs-palm-springs": {
+      "latitude": 33.7963167,
+      "longitude": -116.4997232,
+      "needs_review": true
+    },
+    "pas-a-hotel-spa-huntington-beach": {
+      "latitude": 33.6540808,
+      "longitude": -117.9955978,
+      "needs_review": true
+    },
+    "paws-up-montana-greenough": {
+      "latitude": 46.9192195,
+      "longitude": -113.4352782,
+      "needs_review": true
+    },
+    "pelican-grand-beach-resort-a-noble-house-resort-fort-lauderdale": {
+      "latitude": 26.1223084,
+      "longitude": -80.1433786,
+      "needs_review": true
+    },
+    "pendry-baltimore-baltimore": {
+      "latitude": 39.2811103,
+      "longitude": -76.5919083,
+      "needs_review": true
+    },
+    "pendry-chicago-chicago": {
+      "latitude": 41.8865558,
+      "longitude": -87.6250085,
+      "needs_review": true
+    },
+    "pendry-natirar-peapack": {
+      "latitude": 40.7087982,
+      "longitude": -74.6583872,
+      "needs_review": true
+    },
+    "pendry-washington-dc-washington": {
+      "latitude": 38.8773728,
+      "longitude": -77.0222964,
+      "needs_review": true
+    },
+    "pga-national-resort-palm-beach-gardens": {
+      "latitude": 26.829057,
+      "longitude": -80.1412739,
+      "needs_review": true
+    },
+    "pier-sixty-six-fort-lauderdale": {
+      "latitude": 26.1019084,
+      "longitude": -80.1148576,
+      "needs_review": true
+    },
+    "playa-largo-resort-spa-autograph-collection-key-largo": {
+      "latitude": 25.109291,
+      "longitude": -80.424016,
+      "needs_review": true
+    },
+    "red-jacket-beach-resort-south-yarmouth": {
+      "latitude": 41.6669123,
+      "longitude": -70.1852228,
+      "needs_review": true
+    },
+    "residences-at-the-little-nell-aspen": {
+      "latitude": 39.1911128,
+      "longitude": -106.82356,
+      "needs_review": true
+    },
+    "riggs-washington-dc-washington": {
+      "latitude": 38.9664995,
+      "longitude": -77.0074764,
+      "needs_review": true
+    },
+    "royal-palms-resort-and-spa-part-of-hyatt-phoenix": {
+      "latitude": 33.4484367,
+      "longitude": -112.074141,
+      "needs_review": true
+    },
+    "salamander-middleburg-middleburg": {
+      "latitude": 38.9732627,
+      "longitude": -77.7393936,
+      "needs_review": true
+    },
+    "salamander-washington-dc-washington": {
+      "latitude": 38.8834116,
+      "longitude": -77.0310193,
+      "needs_review": true
+    },
+    "san-francisco-proper-san-francisco": {
+      "latitude": 37.7808481,
+      "longitude": -122.4125251,
+      "needs_review": true
+    },
+    "santa-monica-proper-hotel-a-member-of-design-hotels-santa-monica": {
+      "latitude": 34.0194704,
+      "longitude": -118.491227,
+      "needs_review": true
+    },
+    "scribner-s-catskill-lodge-hunter": {
+      "latitude": 42.2033813,
+      "longitude": -74.1966627,
+      "needs_review": true
+    },
+    "sensei-lana-i-a-four-seasons-resort-lanai-city": {
+      "latitude": 20.826084,
+      "longitude": -156.919785,
+      "needs_review": true
+    },
+    "shinola-hotel-detroit": {
+      "latitude": 42.3343549,
+      "longitude": -83.0485036,
+      "needs_review": true
+    },
+    "skylofts-at-mgm-grand-las-vegas": {
+      "latitude": 36.1023654,
+      "longitude": -115.168872,
+      "needs_review": true
+    },
+    "sls-lux-brickell-miami": {
+      "latitude": 25.7661621,
+      "longitude": -80.1929389,
+      "needs_review": true
+    },
+    "sls-south-beach-miami-beach": {
+      "latitude": 25.7925967,
+      "longitude": -80.1291437,
+      "needs_review": true
+    },
+    "smyth-tribeca-new-york": {
+      "latitude": 40.7152376,
+      "longitude": -74.0091966,
+      "needs_review": true
+    },
+    "sofitel-philadelphia-at-rittenhouse-square-philadelphia": {
+      "needs_review": true
+    },
+    "sofitel-washington-dc-lafayette-square-washington": {
+      "latitude": 38.8950368,
+      "longitude": -77.0365427,
+      "needs_review": true
+    },
+    "soho-grand-hotel-new-york": {
+      "latitude": 40.7220039,
+      "longitude": -74.0043561,
+      "needs_review": true
+    },
+    "sonnenalp-vail": {
+      "latitude": 39.6415099,
+      "longitude": -106.3774691,
+      "needs_review": true
+    },
+    "stein-eriksen-lodge-park-city": {
+      "latitude": 40.6224115,
+      "longitude": -111.4909881,
+      "needs_review": true
+    },
+    "stein-eriksen-residences-park-city": {
+      "latitude": 40.6323324,
+      "longitude": -111.4881793,
+      "needs_review": true
+    },
+    "sundance-mountain-resort-sundance": {
+      "latitude": 37.0759585,
+      "longitude": -113.5652655,
+      "needs_review": true
+    },
+    "sunriver-resort-sunriver": {
+      "latitude": 43.8739225,
+      "longitude": -121.4462511,
+      "needs_review": true
+    },
+    "sunset-marquis-west-hollywood": {
+      "latitude": 34.0921937,
+      "longitude": -118.3775332,
+      "needs_review": true
+    },
+    "sunset-tower-hotel-west-hollywood": {
+      "latitude": 34.0950902,
+      "longitude": -118.3721197,
+      "needs_review": true
+    },
+    "teton-mountain-lodge-and-spa-teton-village": {
+      "latitude": 43.587984,
+      "longitude": -110.827989,
+      "needs_review": true
+    },
+    "the-adolphus-autograph-collection-dallas": {
+      "latitude": 32.7762719,
+      "longitude": -96.7968559,
+      "needs_review": true
+    },
+    "the-american-club-kohler": {
+      "latitude": 43.7398826,
+      "longitude": -87.7817745,
+      "needs_review": true
+    },
+    "the-ballantyne-a-luxury-collection-hotel-charlotte-charlotte": {
+      "latitude": 35.2272086,
+      "longitude": -80.8430827,
+      "needs_review": true
+    },
+    "the-beekman-a-thompson-hotel-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-ben-autograph-collection-west-palm-beach": {
+      "latitude": 26.715364,
+      "longitude": -80.0532942,
+      "needs_review": true
+    },
+    "the-beverly-hills-hotel-beverly-hills": {
+      "latitude": 34.0817146,
+      "longitude": -118.4137967,
+      "needs_review": true
+    },
+    "the-cloudveil-autograph-collection-jackson": {
+      "latitude": 43.479965,
+      "longitude": -110.761815,
+      "needs_review": true
+    },
+    "the-crawford-hotel-denver": {
+      "latitude": 39.75334,
+      "longitude": -105.0000554,
+      "needs_review": true
+    },
+    "the-dominick-new-york": {
+      "latitude": 40.7253206,
+      "longitude": -74.0054962,
+      "needs_review": true
+    },
+    "the-dupont-circle-hotel-washington": {
+      "latitude": 38.9098133,
+      "longitude": -77.0474131,
+      "needs_review": true
+    },
+    "the-edgewater-hotel-seattle": {
+      "latitude": 47.6125416,
+      "longitude": -122.3528448,
+      "needs_review": true
+    },
+    "the-estate-yountville-yountville": {
+      "latitude": 38.3998275,
+      "longitude": -122.3601258,
+      "needs_review": true
+    },
+    "the-fearrington-house-pittsboro": {
+      "latitude": 35.7201229,
+      "longitude": -79.1771539,
+      "needs_review": true
+    },
+    "the-fifth-avenue-hotel-new-york": {
+      "latitude": 40.7449926,
+      "longitude": -73.9877939,
+      "needs_review": true
+    },
+    "the-fontaine-hotel-kansas-city": {
+      "latitude": 39.0400122,
+      "longitude": -94.5983584,
+      "needs_review": true
+    },
+    "the-global-ambassador-phoenix": {
+      "latitude": 33.4484367,
+      "longitude": -112.074141,
+      "needs_review": true
+    },
+    "the-hollywood-roosevelt-los-angeles": {
+      "latitude": 34.1007055,
+      "longitude": -118.3423628,
+      "needs_review": true
+    },
+    "the-hotel-landing-wayzata": {
+      "latitude": 44.9683704,
+      "longitude": -93.5052852,
+      "needs_review": true
+    },
+    "the-hythe-a-luxury-collection-resort-vail-vail": {
+      "latitude": 39.6438028,
+      "longitude": -106.3888231,
+      "needs_review": true
+    },
+    "the-ivy-hotel-baltimore": {
+      "latitude": 39.3033608,
+      "longitude": -76.613036,
+      "needs_review": true
+    },
+    "the-junto-columbus": {
+      "latitude": 39.9595205,
+      "longitude": -83.008838,
+      "needs_review": true
+    },
+    "the-lake-house-on-canandaigua-canandaigua": {
+      "latitude": 42.8744207,
+      "longitude": -77.2742877,
+      "needs_review": true
+    },
+    "the-lennox-miami-beach-miami-beach": {
+      "latitude": 25.7929198,
+      "longitude": -80.1353006,
+      "needs_review": true
+    },
+    "the-liberty-a-marriott-luxury-collection-hotel-boston-boston": {
+      "latitude": 42.3588336,
+      "longitude": -71.0578303,
+      "needs_review": true
+    },
+    "the-line-austin-austin": {
+      "latitude": 30.1989298,
+      "longitude": -97.890912,
+      "needs_review": true
+    },
+    "the-line-dc-washington-d-c": {
+      "latitude": 38.9227399,
+      "longitude": -77.0417024,
+      "needs_review": true
+    },
+    "the-lodge-at-kukui-ula-koloa": {
+      "latitude": 21.9042279,
+      "longitude": -159.465733,
+      "needs_review": true
+    },
+    "the-lodge-at-sonoma-resort-autograph-collection-sonoma": {
+      "latitude": 38.5110803,
+      "longitude": -122.8473388,
+      "needs_review": true
+    },
+    "the-luxury-collection-hotel-manhattan-midtown-new-york": {
+      "latitude": 40.7634547,
+      "longitude": -73.9805066,
+      "needs_review": true
+    },
+    "the-madrona-healdsburg": {
+      "latitude": 38.6106812,
+      "longitude": -122.870138,
+      "needs_review": true
+    },
+    "the-manner-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-ned-nomad-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-nines-a-luxury-collection-hotel-portland-portland": {
+      "latitude": 45.5202471,
+      "longitude": -122.674194,
+      "needs_review": true
+    },
+    "the-perry-hotel-marina-key-west": {
+      "latitude": 24.5548262,
+      "longitude": -81.8020722,
+      "needs_review": true
+    },
+    "the-pierside-santa-monica-santa-monica": {
+      "latitude": 34.011901,
+      "longitude": -118.4940066,
+      "needs_review": true
+    },
+    "the-pinch-hotel-charleston": {
+      "latitude": 32.7845298,
+      "longitude": -79.9349186,
+      "needs_review": true
+    },
+    "the-post-oak-hotel-at-uptown-houston-houston": {
+      "latitude": 29.7589382,
+      "longitude": -95.3676974,
+      "needs_review": true
+    },
+    "the-preserve-sporting-club-resort-richmond": {
+      "latitude": 41.4998322,
+      "longitude": -71.660263,
+      "needs_review": true
+    },
+    "the-quoin-hotel-wilmington": {
+      "latitude": 39.7419017,
+      "longitude": -75.5506666,
+      "needs_review": true
+    },
+    "the-rally-hotel-at-mcgregor-square-denver": {
+      "latitude": 39.7552912,
+      "longitude": -104.9962404,
+      "needs_review": true
+    },
+    "the-ranch-at-laguna-beach-laguna-beach": {
+      "latitude": 33.5129223,
+      "longitude": -117.748146,
+      "needs_review": true
+    },
+    "the-ranch-at-rock-creek-philipsburg": {
+      "latitude": 46.3321878,
+      "longitude": -113.2944992,
+      "needs_review": true
+    },
+    "the-ranch-hudson-valley-sloatsburg": {
+      "latitude": 41.1545395,
+      "longitude": -74.192924,
+      "needs_review": true
+    },
+    "the-ranch-malibu-malibu": {
+      "latitude": 34.0356852,
+      "longitude": -118.6755544,
+      "needs_review": true
+    },
+    "the-rittenhouse-hotel-philadelphia": {
+      "latitude": 39.9498637,
+      "longitude": -75.1734752,
+      "needs_review": true
+    },
+    "the-ritz-carlton-coconut-grove-miami-miami": {
+      "latitude": 25.7741566,
+      "longitude": -80.1935973,
+      "needs_review": true
+    },
+    "the-ritz-carlton-dallas-las-colinas-irving": {
+      "latitude": 32.8295183,
+      "longitude": -96.9442177,
+      "needs_review": true
+    },
+    "the-ritz-carlton-georgetown-washington-d-c-washington": {
+      "latitude": 38.9032255,
+      "longitude": -77.0617072,
+      "needs_review": true
+    },
+    "the-ritz-carlton-naples-tibur-n-naples": {
+      "latitude": 26.1421976,
+      "longitude": -81.7942944,
+      "needs_review": true
+    },
+    "the-ritz-carlton-residences-orlando-grande-lakes-orlando": {
+      "latitude": 28.5421218,
+      "longitude": -81.379045,
+      "needs_review": true
+    },
+    "the-ritz-carlton-residences-waikiki-beach-waikiki-beach": {
+      "latitude": 21.2741046,
+      "longitude": -157.8243118,
+      "needs_review": true
+    },
+    "the-ritz-carlton-reynolds-lake-oconee-greensboro": {
+      "latitude": 33.5756831,
+      "longitude": -83.1823789,
+      "needs_review": true
+    },
+    "the-ritz-carlton-amelia-island-fernandina-beach": {
+      "latitude": 30.6712285,
+      "longitude": -81.4630025,
+      "needs_review": true
+    },
+    "the-ritz-carlton-pentagon-city-arlington": {
+      "latitude": 38.8624507,
+      "longitude": -77.0605911,
+      "needs_review": true
+    },
+    "the-ritz-carlton-portland-portland": {
+      "latitude": 45.5207884,
+      "longitude": -122.6811143,
+      "needs_review": true
+    },
+    "the-ritz-carlton-rancho-mirage-rancho-mirage": {
+      "latitude": 33.7676437,
+      "longitude": -116.4569313,
+      "needs_review": true
+    },
+    "the-ritz-carlton-tysons-corner-mclean": {
+      "latitude": 38.9242611,
+      "longitude": -77.2238721,
+      "needs_review": true
+    },
+    "the-roundtree-amagansett-amagansett": {
+      "latitude": 40.981545,
+      "longitude": -72.1332197,
+      "needs_review": true
+    },
+    "the-royal-hawaiian-a-luxury-collection-resort-waikiki-honolulu": {
+      "latitude": 21.304547,
+      "longitude": -157.855676,
+      "needs_review": true
+    },
+    "the-ryder-hotel-charleston": {
+      "latitude": 32.7825314,
+      "longitude": -79.9322159,
+      "needs_review": true
+    },
+    "the-sanderling-kitty-hawk": {
+      "latitude": 36.0664318,
+      "longitude": -75.6935448,
+      "needs_review": true
+    },
+    "the-seabird-resort-oceanside": {
+      "latitude": 33.193638,
+      "longitude": -117.3822073,
+      "needs_review": true
+    },
+    "the-seagate-hotel-and-spa-delray-beach": {
+      "latitude": 26.4614625,
+      "longitude": -80.0728201,
+      "needs_review": true
+    },
+    "the-sebastian-vail-vail": {
+      "latitude": 39.6426896,
+      "longitude": -106.3778384,
+      "needs_review": true
+    },
+    "the-sky-residences-at-w-aspen-aspen": {
+      "latitude": 39.1911128,
+      "longitude": -106.82356,
+      "needs_review": true
+    },
+    "the-st-regis-longboat-key-resort-longboat-key": {
+      "latitude": 27.4125417,
+      "longitude": -82.6589881,
+      "needs_review": true
+    },
+    "the-standard-high-line-new-york": {
+      "latitude": 40.7408822,
+      "longitude": -74.0079129,
+      "needs_review": true
+    },
+    "the-standard-spa-miami-beach-miami-beach": {
+      "latitude": 25.7921791,
+      "longitude": -80.1495457,
+      "needs_review": true
+    },
+    "the-standard-east-village-new-york": {
+      "latitude": 40.727873,
+      "longitude": -73.9907388,
+      "needs_review": true
+    },
+    "the-state-hotel-seattle": {
+      "latitude": 47.6093592,
+      "longitude": -122.3392078,
+      "needs_review": true
+    },
+    "the-sun-rose-west-hollywood-west-hollywood": {
+      "latitude": 34.0948284,
+      "longitude": -118.3734953,
+      "needs_review": true
+    },
+    "the-tides-inn-irvington": {
+      "latitude": 37.6642902,
+      "longitude": -76.4327633,
+      "needs_review": true
+    },
+    "the-times-square-edition-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-towers-at-lotte-new-york-palace-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-twenty-two-new-york-new-york": {
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "needs_review": true
+    },
+    "the-us-grant-a-luxury-collection-hotel-san-diego-san-diego": {
+      "latitude": 32.7174202,
+      "longitude": -117.162772,
+      "needs_review": true
+    },
+    "the-vinoy-resort-golf-club-autograph-collection-saint-petersburg": {
+      "latitude": 27.7712264,
+      "longitude": -82.6340259,
+      "needs_review": true
+    },
+    "the-wall-street-hotel-new-york": {
+      "latitude": 40.7054827,
+      "longitude": -74.0075737,
+      "needs_review": true
+    },
+    "the-watergate-hotel-washington": {
+      "latitude": 38.8993379,
+      "longitude": -77.0558434,
+      "needs_review": true
+    },
+    "the-wauwinet-nantucket": {
+      "latitude": 41.2844408,
+      "longitude": -70.09842,
+      "needs_review": true
+    },
+    "the-west-hollywood-edition-west-hollywood": {
+      "latitude": 34.09002,
+      "longitude": -118.389146,
+      "needs_review": true
+    },
+    "the-westin-anaheim-resort-anaheim": {
+      "latitude": 33.8021237,
+      "longitude": -117.9224182,
+      "needs_review": true
+    },
+    "the-westin-maui-resort-spa-ka-anapali-lahaina": {
+      "latitude": 20.8738769,
+      "longitude": -156.677678,
+      "needs_review": true
+    },
+    "the-whitby-new-york": {
+      "latitude": 40.7599166,
+      "longitude": -73.989617,
+      "needs_review": true
+    },
+    "the-william-vale-brooklyn": {
+      "latitude": 40.7224218,
+      "longitude": -73.9569442,
+      "needs_review": true
+    },
+    "the-windsor-court-new-orleans": {
+      "latitude": 29.9559145,
+      "longitude": -90.0730259,
+      "needs_review": true
+    },
+    "thompson-atlanta-buckhead-atlanta": {
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "needs_review": true
+    },
+    "thompson-houston-houston": {
+      "latitude": 29.7736922,
+      "longitude": -95.4041591,
+      "needs_review": true
+    },
+    "thompson-palm-springs-palm-springs": {
+      "latitude": 33.8246269,
+      "longitude": -116.540303,
+      "needs_review": true
+    },
+    "thompson-san-antonio-river-walk-san-antonio": {
+      "latitude": 29.4246002,
+      "longitude": -98.4951405,
+      "needs_review": true
+    },
+    "tommy-bahama-miramonte-resort-spa-indian-wells": {
+      "latitude": 33.7217965,
+      "longitude": -116.338303,
+      "needs_review": true
+    },
+    "tower-at-the-boca-raton-boca-raton": {
+      "latitude": 26.3586885,
+      "longitude": -80.0830984,
+      "needs_review": true
+    },
+    "troutbeck-amenia": {
+      "latitude": 41.8546053,
+      "longitude": -73.5167639,
+      "needs_review": true
+    },
+    "vail-residences-at-cascade-village-vail": {
+      "latitude": 39.6360064,
+      "longitude": -106.4056308,
+      "needs_review": true
+    },
+    "viceroy-hotel-washington-dc-washington": {
+      "latitude": 38.9051023,
+      "longitude": -77.0315742,
+      "needs_review": true
+    },
+    "viceroy-santa-monica-santa-monica": {
+      "latitude": 34.0081266,
+      "longitude": -118.4904673,
+      "needs_review": true
+    },
+    "viceroy-snowmass-snowmass-village": {
+      "latitude": 39.2096564,
+      "longitude": -106.9449339,
+      "needs_review": true
+    },
+    "viewline-resort-snowmass-autograph-collection-snowmass-village": {
+      "latitude": 39.2130418,
+      "longitude": -106.9378207,
+      "needs_review": true
+    },
+    "virgin-hotels-dallas-dallas": {
+      "latitude": 32.7969213,
+      "longitude": -96.82201,
+      "needs_review": true
+    },
+    "w-new-york-union-square-new-york": {
+      "latitude": 40.7362815,
+      "longitude": -73.9961487,
+      "needs_review": true
+    },
+    "w-seattle-seattle": {
+      "latitude": 47.5709315,
+      "longitude": -122.3865166,
+      "needs_review": true
+    },
+    "waikiki-beach-marriott-resort-spa-honolulu": {
+      "latitude": 21.2734513,
+      "longitude": -157.8224713,
+      "needs_review": true
+    },
+    "wailea-beach-resort-marriott-maui-kihei": {
+      "latitude": 20.7476261,
+      "longitude": -156.4549898,
+      "needs_review": true
+    },
+    "warren-street-new-york": {
+      "latitude": 40.6807285,
+      "longitude": -73.9791903,
+      "needs_review": true
+    },
+    "wayfinder-waikiki-honolulu": {
+      "latitude": 21.2787089,
+      "longitude": -157.8232105,
+      "needs_review": true
+    },
+    "weekapaug-inn-weekapaug": {
+      "latitude": 41.3304579,
+      "longitude": -71.7503684,
+      "needs_review": true
+    },
+    "wequassett-resort-and-golf-club-harwich": {
+      "latitude": 41.722527,
+      "longitude": -69.9952434,
+      "needs_review": true
+    },
+    "willard-intercontinental-washington-by-ihg-washington": {
+      "latitude": 38.8950368,
+      "longitude": -77.0365427,
+      "needs_review": true
+    },
+    "winvian-farm-morris": {
+      "latitude": 41.6842633,
+      "longitude": -73.1962245,
+      "needs_review": true
+    },
+    "woodstock-inn-resort-woodstock": {
+      "latitude": 43.6229254,
+      "longitude": -72.519153,
+      "needs_review": true
+    },
+    "wythe-hotel-brooklyn": {
+      "latitude": 40.7219036,
+      "longitude": -73.9580608,
+      "needs_review": true
+    },
+    "xv-beacon-boston": {
+      "latitude": 42.3583866,
+      "longitude": -71.0619489,
+      "needs_review": true
+    },
+    "yacht-club-at-the-boca-raton-adults-only-boca-raton": {
+      "latitude": 26.3586885,
+      "longitude": -80.0830984,
+      "needs_review": true
+    },
+    "yours-truly-dc-vignette-collection-by-ihg-washington": {
+      "latitude": 38.8950368,
+      "longitude": -77.0365427,
+      "needs_review": true
+    },
+    "banyan-tree-lang-co-phu-loc-district": {
+      "latitude": 16.2031796,
+      "longitude": 107.7697382,
+      "needs_review": true
+    },
+    "capella-hanoi-hanoi": {
+      "latitude": 21.0257147,
+      "longitude": 105.8568102,
+      "needs_review": true
+    },
+    "intercontinental-halong-bay-resort-by-ihg-ha-long": {
+      "latitude": 20.9472556,
+      "longitude": 107.1164673,
+      "needs_review": true
+    },
+    "jw-marriott-phu-quoc-emerald-bay-resort-spa-phu-quoc": {
+      "latitude": 10.0334818,
+      "longitude": 104.0281698,
+      "needs_review": true
+    },
+    "regent-phu-quoc-phu-quoc": {
+      "latitude": 10.2287856,
+      "longitude": 104.0143592,
+      "needs_review": true
+    },
+    "six-senses-con-dao-con-son": {
+      "latitude": 8.6978551,
+      "longitude": 106.6306397,
+      "needs_review": true
+    }
+  }
+}
