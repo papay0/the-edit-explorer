@@ -137,6 +137,7 @@ export default function Home() {
       originInput: string;
       hours: number;
       averageSpeedKmh: number;
+      coordinates?: { latitude: number; longitude: number };
     }) => {
       setSearching(true);
       setError(null);

@@ -17,13 +17,14 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
-import { Search, MapPin, Clock, Filter, ChevronDown, Settings } from "lucide-react";
+import { Search, MapPin, Clock, Filter, ChevronDown, Settings, Locate } from "lucide-react";
 
 interface SearchControlsProps {
   onSearch: (params: {
     originInput: string;
     hours: number;
     averageSpeedKmh: number;
+    coordinates?: { latitude: number; longitude: number };
   }) => void;
   onFilter: (params: {
     country?: string;
@@ -56,14 +57,51 @@ export function SearchControls({
   const [nameSearch, setNameSearch] = useState("");
   const [selectedCity, setSelectedCity] = useState<string | undefined>();
   const [showAdvanced, setShowAdvanced] = useState(false);
+  const [isLocating, setIsLocating] = useState(false);
+  const [currentCoordinates, setCurrentCoordinates] = useState<{ latitude: number; longitude: number } | undefined>();
 
   const handleDistanceSearch = () => {
-    if (!originInput.trim()) return;
+    if (!originInput.trim() && !currentCoordinates) return;
     onSearch({
-      originInput: originInput.trim(),
+      originInput: originInput.trim() || "Current Location",
       hours,
       averageSpeedKmh,
+      coordinates: currentCoordinates,
     });
+  };
+
+  const handleUseCurrentLocation = () => {
+    if (!navigator.geolocation) {
+      alert("Geolocation is not supported by your browser");
+      return;
+    }
+
+    setIsLocating(true);
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setCurrentCoordinates({ latitude, longitude });
+        setOriginInput("Current Location");
+        setIsLocating(false);
+      },
+      (error) => {
+        setIsLocating(false);
+        switch (error.code) {
+          case error.PERMISSION_DENIED:
+            alert("Location access denied. Please enable location permissions.");
+            break;
+          case error.POSITION_UNAVAILABLE:
+            alert("Location information is unavailable.");
+            break;
+          case error.TIMEOUT:
+            alert("Location request timed out.");
+            break;
+          default:
+            alert("An error occurred getting your location.");
+        }
+      },
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
+    );
   };
 
   const handleFilterChange = () => {
@@ -100,17 +138,40 @@ export function SearchControls({
         <div className="space-y-3">
           <div className="space-y-2">
             <Label htmlFor="origin">Starting Location</Label>
-            <div className="relative">
-              <Input
-                id="origin"
-                placeholder="e.g., San Francisco, CA or SFO airport"
-                value={originInput}
-                onChange={(e) => setOriginInput(e.target.value)}
-                onKeyDown={(e) => e.key === "Enter" && handleDistanceSearch()}
-                className="pr-10"
-              />
-              <Search className="absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+            <div className="flex gap-2">
+              <div className="relative flex-1">
+                <Input
+                  id="origin"
+                  placeholder="e.g., San Francisco, CA"
+                  value={originInput}
+                  onChange={(e) => {
+                    setOriginInput(e.target.value);
+                    // Clear coordinates if user types a different location
+                    if (e.target.value !== "Current Location") {
+                      setCurrentCoordinates(undefined);
+                    }
+                  }}
+                  onKeyDown={(e) => e.key === "Enter" && handleDistanceSearch()}
+                  className="pr-10"
+                />
+                <Search className="absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+              </div>
+              <Button
+                type="button"
+                variant="outline"
+                size="icon"
+                onClick={handleUseCurrentLocation}
+                disabled={isLocating}
+                title="Use current location"
+              >
+                <Locate className={`h-4 w-4 ${isLocating ? "animate-pulse" : ""}`} />
+              </Button>
             </div>
+            {currentCoordinates && (
+              <p className="text-xs text-muted-foreground">
+                Using GPS: {currentCoordinates.latitude.toFixed(4)}, {currentCoordinates.longitude.toFixed(4)}
+              </p>
+            )}
           </div>
 
           <div className="space-y-2">

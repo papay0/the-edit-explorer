@@ -11,6 +11,7 @@ export async function POST(request: Request) {
       country,
       city,
       averageSpeedKmh = 90,
+      coordinates, // Direct coordinates from browser geolocation
     } = body;
 
     // Validate inputs
@@ -28,20 +29,35 @@ export async function POST(request: Request) {
       );
     }
 
-    // Geocode the origin address
-    const geocodeResult = await geocodeAddress(originInput);
+    let latitude: number;
+    let longitude: number;
+    let displayName: string;
 
-    if (!geocodeResult) {
-      return NextResponse.json(
-        { error: 'Could not find the specified location. Please try a more specific address or city name.' },
-        { status: 400 }
-      );
+    // If coordinates are provided directly (from browser geolocation), use them
+    if (coordinates && typeof coordinates.latitude === 'number' && typeof coordinates.longitude === 'number') {
+      latitude = coordinates.latitude;
+      longitude = coordinates.longitude;
+      displayName = `Current Location (${latitude.toFixed(4)}, ${longitude.toFixed(4)})`;
+    } else {
+      // Otherwise, geocode the origin address
+      const geocodeResult = await geocodeAddress(originInput);
+
+      if (!geocodeResult) {
+        return NextResponse.json(
+          { error: 'Could not find the specified location. Please try a more specific address or city name.' },
+          { status: 400 }
+        );
+      }
+
+      latitude = geocodeResult.latitude;
+      longitude = geocodeResult.longitude;
+      displayName = geocodeResult.display_name;
     }
 
     // Search for hotels within the specified time
     const results = searchHotelsWithinTime(
-      geocodeResult.latitude,
-      geocodeResult.longitude,
+      latitude,
+      longitude,
       hours,
       averageSpeedKmh,
       { country, city }
@@ -50,9 +66,9 @@ export async function POST(request: Request) {
     return NextResponse.json({
       origin: {
         input: originInput,
-        resolved: geocodeResult.display_name,
-        latitude: geocodeResult.latitude,
-        longitude: geocodeResult.longitude,
+        resolved: displayName,
+        latitude,
+        longitude,
       },
       searchParams: {
         hours,

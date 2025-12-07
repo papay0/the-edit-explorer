@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 import type { Hotel, SearchResult } from "@/lib/types";
+import { Button } from "@/components/ui/button";
+import { Locate } from "lucide-react";
 
 // Dynamic imports for Leaflet (must be client-side only)
 import dynamic from "next/dynamic";
@@ -55,6 +57,9 @@ function HotelMapInner({
 }: HotelMapProps) {
   const [L, setL] = useState<typeof import("leaflet") | null>(null);
   const [mounted, setMounted] = useState(false);
+  const [userLocation, setUserLocation] = useState<[number, number] | null>(null);
+  const [isLocating, setIsLocating] = useState(false);
+  const [mapRef, setMapRef] = useState<any>(null);
 
   useEffect(() => {
     // Import Leaflet on client side only
@@ -63,6 +68,31 @@ function HotelMapInner({
     });
     setMounted(true);
   }, []);
+
+  const handleLocateMe = () => {
+    if (!navigator.geolocation) {
+      alert("Geolocation is not supported by your browser");
+      return;
+    }
+
+    setIsLocating(true);
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setUserLocation([latitude, longitude]);
+        setIsLocating(false);
+        // Fly to user location if map is available
+        if (mapRef) {
+          mapRef.flyTo([latitude, longitude], 10);
+        }
+      },
+      (error) => {
+        setIsLocating(false);
+        alert("Could not get your location. Please check permissions.");
+      },
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
+    );
+  };
 
   if (!mounted || !L) {
     return (
@@ -129,13 +159,38 @@ function HotelMapInner({
     iconAnchor: [16, 16],
   });
 
+  // User location icon (blue dot with pulsing effect)
+  const userLocationIcon = L.divIcon({
+    className: "user-location-marker",
+    html: `<div style="
+      width: 20px;
+      height: 20px;
+      background: #3b82f6;
+      border-radius: 50%;
+      border: 3px solid white;
+      box-shadow: 0 0 0 rgba(59, 130, 246, 0.4);
+      animation: pulse 2s infinite;
+    "></div>
+    <style>
+      @keyframes pulse {
+        0% { box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.4); }
+        70% { box-shadow: 0 0 0 15px rgba(59, 130, 246, 0); }
+        100% { box-shadow: 0 0 0 0 rgba(59, 130, 246, 0); }
+      }
+    </style>`,
+    iconSize: [20, 20],
+    iconAnchor: [10, 10],
+  });
+
   return (
-    <MapContainer
-      center={center}
-      zoom={origin ? 8 : 4}
-      style={{ height: "100%", width: "100%" }}
-      className="rounded-lg"
-    >
+    <div className="relative w-full h-full">
+      <MapContainer
+        center={center}
+        zoom={origin ? 8 : 4}
+        style={{ height: "100%", width: "100%" }}
+        className="rounded-lg"
+        ref={setMapRef}
+      >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -161,6 +216,18 @@ function HotelMapInner({
             pathOptions={{ color: "blue", fillColor: "blue", fillOpacity: 0.1 }}
           /> */}
         </>
+      )}
+
+      {/* User location marker */}
+      {userLocation && (
+        <Marker
+          position={userLocation}
+          icon={userLocationIcon}
+        >
+          <Popup>
+            <strong>Your Location</strong>
+          </Popup>
+        </Marker>
       )}
 
       {/* Hotel markers */}
@@ -189,6 +256,19 @@ function HotelMapInner({
         </Marker>
       ))}
     </MapContainer>
+
+      {/* Locate Me Button */}
+      <Button
+        variant="secondary"
+        size="icon"
+        className="absolute top-4 right-4 z-[1000] shadow-md"
+        onClick={handleLocateMe}
+        disabled={isLocating}
+        title="Center on my location"
+      >
+        <Locate className={`h-4 w-4 ${isLocating ? "animate-pulse" : ""}`} />
+      </Button>
+    </div>
   );
 }
 
